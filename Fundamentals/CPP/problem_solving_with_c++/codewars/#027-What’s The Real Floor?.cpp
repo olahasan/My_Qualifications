@@ -1,4 +1,3 @@
-int getRealFloor(int f) {
-  
-  return f<0||f==0 ? f:f < 13 ? f-1 : f-2;
+int getRealFloor(int n) {
+  return n <= 0? n : n < 13? n - 1: n - 2;
 }
