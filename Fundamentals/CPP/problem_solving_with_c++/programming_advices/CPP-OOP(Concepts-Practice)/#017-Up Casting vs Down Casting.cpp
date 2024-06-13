@@ -7,7 +7,7 @@ class clsPerson
 
 public:
 
-    string FullName = "Mohammed Abu-Hadhoud";
+    string FullName = "Ola Ali";
 
 };
 
