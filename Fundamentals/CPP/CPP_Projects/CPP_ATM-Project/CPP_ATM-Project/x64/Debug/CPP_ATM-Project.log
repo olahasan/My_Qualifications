@@ -1,0 +1,4 @@
+﻿  CPP_ATM-Project.cpp
+C:\Users\olaal\Desktop\CPP_ATM-Project\CPP_ATM-Project\CPP_ATM-Project.cpp(41,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\CPP_ATM-Project\CPP_ATM-Project\CPP_ATM-Project.cpp(202): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  CPP_ATM-Project.vcxproj -> C:\Users\olaal\Desktop\CPP_ATM-Project\x64\Debug\CPP_ATM-Project.exe
