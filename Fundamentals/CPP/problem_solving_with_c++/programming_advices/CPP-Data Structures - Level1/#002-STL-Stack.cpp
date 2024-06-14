@@ -3,7 +3,7 @@
 #include <iostream>
 #include <stack>
 
-
+// STL - standard template library
 using namespace std;
 
 int main()
