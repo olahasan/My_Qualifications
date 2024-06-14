@@ -1,1 +1,418 @@
-"hello" 
+1- What is Class?
+-Class is the blue-print of object
+-Class is a Datatype
+=================================================================
+2- Can you access class members and methods directly?
+- No, You have to declare an object of the class first, and access all members and methods through the object not class.
+==================================================================
+3- How to access member function of class using Object ?
+- ObjectName.FunctionName();
+===================================================================
+4- If you have a private member or method in class, can you access this member or method through Object?
+- No, only public members and methods can be accessed through the object, 
+  all private members and methods are for internal use inside the class
+====================================================================
+5- Any Function or Procedure inside class is called "Method"?. YES
+====================================================================
+6- Object is Instance of class?. True
+====================================================================
+7- What is the difference between C & C++?
+- C is procedural/Functional programming language.
+- C does not support OOP, While C++ Supports OOP.
+- C++ Supports Procedural/Functional Programming and OOP as well
+====================================================================
+8- Class members means any variable or function inside the class is called "Member"?.
+- True
+====================================================================
+9- Data Member is any variable inside the class that holds data?.
+- True
+====================================================================
+10- Function Member is any function or procedure inside a class?.
+- True
+====================================================================
+11- Class Members are Data Members and Function Members?
+- True
+====================================================================
+12- Every Object has it's own space in memory that hold both Data / Function Members?.
+- False
+====================================================================
+13- Every Object has it's own space in memory that holds only Data Members?.
+- true
+====================================================================
+14- Function Members are shared to all objects in memory and has one space for them?.
+- true
+====================================================================
+15- Access modifiers (or access specifiers) are keywords in object-oriented languages 
+    that set the accessibility of classes, methods, and other members?.
+- True
+====================================================================
+16- Which of the following is Access Specifiers/Modifiers?.
+- Public
+- Private
+- Protected
+====================================================================
+17- Public Members can be accessed from inside and outside the class?.
+- True
+====================================================================
+18- Private Members can be accessed from outside the class through object?.
+- Flase
+====================================================================
+19- Private Members can be accessed by any class inherits the current class?.
+- False
+====================================================================
+20- Private Members can be accessed only from inside the class, it cannot be accessed from 
+    outside the class nor from the classes inherits the current class..?
+-True
+====================================================================
+21- If you want to have a member that is private to outside class and 
+    public to classes inherits the current class, which access specifier/modifier you use?
+- Protected
+====================================================================
+22- Protected Members can be accessed from outside class through objects?.
+- False
+====================================================================
+23- Protected Members can be accessed from inside class and from all classes inherits the current class?.
+- True
+====================================================================
+24- OOP is more secured because you can hide members from developers?.
+- True
+====================================================================
+25- Inside the class I can access everything including Public, Private , and Protected Members?.
+- True
+====================================================================
+26- Properties are Functions allow you to Update Private Members inside the class?
+- True
+====================================================================
+27- Properties are two functions one for Setting Data and One for getting Data?.
+- True
+====================================================================
+28- If you want to update data inside class you should write a property function to set them?.
+- True
+====================================================================
+29- If you want to retrieve Data Member from a class you should write a property function to get that data?.
+- True
+====================================================================
+30- Both property functions set and get they use a private data member to store and get data from it?.
+- True
+====================================================================
+31- In order have a read only property you only implement the set function and you don't implement the get function?
+- False
+====================================================================
+32- In order have a read only property you implement?.
+- Get Function Only
+====================================================================
+33- In order to have a write only property you implement?.
+- Set Function only
+====================================================================
+34- In order have a read/write property you implement?.
+- Both Set and Get Functions
+====================================================================
+35- In normal terms Encapsulation is defined as wrapping up of data and information under a single unit,
+     In Object Oriented Programming, Encapsulation is defined as binding together the data and the functions that manipulates them?.
+- True
+====================================================================
+36- In simple terms, abstraction “displays” only the relevant attributes of objects and “hides” the unnecessary details?.
+- True
+====================================================================
+37- You Achieve Abstraction....
+- Through Private Members only
+====================================================================
+38- A constructor is a special type of member function that is called automatically when an object is created?.
+- True
+====================================================================
+39- In C++, a constructor has the same name as that of the class and it does not have a return type?.
+- True
+====================================================================
+40- Constructor should:
+- Have the same name of the class.
+- Should not return type.
+- Should be Public.
+====================================================================
+41- Default Constructor: A constructor with no parameters is known as a default constructor?.
+- True
+====================================================================
+42- You should always write Default Constructor?.
+- No, because if you don't write it the compiler will write it for you.
+====================================================================
+43- Parameterized Constructor: a constructor with parameters is known as a parameterized constructor,
+    This is the preferred method to initialize member data.
+- True
+====================================================================
+44- When you have a parameterized constructor it will override the default constructor?.
+- True
+====================================================================
+45- A constructor is primarily used to initialize objects,
+    They are also used to run a default code when an object is created?.
+- True
+====================================================================
+46- The copy constructor is used to initialize the members of a newly created object
+    by copying the members of an already existing object?.
+- True
+====================================================================
+47- The process of initializing members of an object through a copy constructor is known as copy initialization?.
+- True
+====================================================================
+48- It is also called member-wise initialization because the copy constructor initializes one object with the existing object, 
+    both belonging to the same class on a member-by-member copy basis?.
+- True
+====================================================================
+49- The copy constructor can be defined explicitly by the programmer,
+    If the programmer does not define the copy constructor, the compiler does it for us?.
+- True
+====================================================================
+50- You should always implement a copy constructor in your code?.
+- No, because the compiler will do it for you.
+====================================================================
+51- What are the types of constructors?.
+- Default Constructor
+- Parameterized Constructor
+- Copy Constructor
+====================================================================
+52- Can you have more than one constructor in a class?
+- Yes, You can using function overloading, and this is called "Constructor Overloading"
+====================================================================
+53- Destructor is an instance member function which is invoked automatically whenever an object is going to be destroyed,
+    Meaning, a destructor is the last function that is going to be called before an object is destroyed?.
+- True
+====================================================================
+54- Destructor has the same name as their class name preceded by a tilde (~) symbol?.
+- True
+====================================================================
+55- It is not possible to define more than one destructor?.
+- True
+====================================================================
+56- The destructor is only one way to destroy the object create by constructor,
+    Hence destructor can-not be overloaded?.
+- True
+====================================================================
+57- Destructor neither requires any argument nor returns any value?.
+- True
+====================================================================
+58- Destructor is automatically called when object goes out of scope?.
+- True
+====================================================================
+59- Static Member is a variable that is shared for all objects, 
+    any object modifies it it get modified for all other objects?.
+- True
+====================================================================
+60- Each Object has it's own static members?.
+- False
+====================================================================
+61- Static members are on the class level not for each object?.
+- True
+====================================================================
+62- Static Members are accessible from all objects.
+True
+====================================================================
+63- Static Functions can be called at class level without a need to have an object?.
+- True
+====================================================================
+64- Static Functions can not be called through object?.
+- False
+====================================================================
+65- Static Functions can be called through any object as well as through the class itself.
+- True
+====================================================================
+66- If you have a static function, can you access a non-static members of the class from inside that function?
+- No, Static methods can only access static members , because static methods can be called at class level without objects, 
+  and non static members you cannot access them without having object first.
+====================================================================
+67- Inheritance: Inheritance is one in which a new class is created that inherits the properties of the already exist class,
+    It supports the concept of code reusability and reduces the length of the code in object-oriented programming.
+- True
+====================================================================
+68- The class that inherits properties from another class is called Subclass or Derived Class?
+- True
+====================================================================
+69- The class whose properties are inherited by a subclass is called Base Class or Superclass?.
+- True
+====================================================================
+70- Derived Class and Sub Class are the same?.
+- True
+====================================================================
+71- Base Class and Super Class are the same?
+- True
+====================================================================
+72- You can inherit only public and protected members, private members are not inherited?.
+- True
+====================================================================
+73- Function Overriding : The function in derived class overrides the function in base class?.
+- True
+====================================================================
+74- If you override a function in base class will you be able to access this function from the object of derived class?
+- False
+====================================================================
+75- If you override a function in base class will you be able to access this function inside derived class?
+- True
+====================================================================
+76- If you override a function in base how to access it from within the derived class?
+- BaseClassName::FunctionName()
+====================================================================
+77- Access modifiers (or access specifiers) are keywords in object-oriented languages that 
+    set the accessibility of classes, methods, and other members?.
+- True
+====================================================================
+78- choose the Access Specifiers/Modifiers:
+Public
+Private
+Protected
+====================================================================
+79- Public Members can be accessed from inside and outside the class?.
+- True
+====================================================================
+80- Private Members can be accessed from outside the class through object?.
+- Flase
+====================================================================
+81- Private Members can be accessed by any class inherits the current class?.
+- False
+====================================================================
+82- Private Members can be accessed only from inside the class, it cannot be accessed 
+    from outside the class nor from the classes inherits the current class..
+- True
+====================================================================
+83- If you want to have a member that is private to outside class and public to 
+    classes inherits the current class, which access specifier/modifier you use?
+- Protected
+====================================================================
+84- Protected Members can be accessed from outside class through objects?.
+- False
+====================================================================
+85- Protected Members can be accessed from inside class and from all classes inherits the current class?.
+- True
+====================================================================
+86- OOP is more secured because you can hide members from developers?.
+-True
+====================================================================
+87- Inside the class I can access everything including Public, Private , and Protected Members?.
+- True
+====================================================================
+88- Visibility Mode "Private" will make everything private in the derived class, 
+    so it can make use of it and no one will make use of it neither derived classes nor objects.
+- true 
+====================================================================
+89- Visibility Mode "Protected" will make everything protected in the derived class, 
+    so it can make use of it and all other derived classes will make use of it, but no objects will make use of it.
+- True
+====================================================================
+90- Visibility Mode "Public" will inherit the class publicly so every public members and protected members are useful for others.
+- True
+====================================================================
+91- Private Members in the Base Class are not accessible from outside the class nor the derived classes?.
+- true
+====================================================================
+92- What are types of Inheritance?
+- Single inheritance
+- Multi-level inheritance
+- Multiple inheritance
+- Hierarchical inheritance
+- Hybrid inheritance
+====================================================================
+93- Multiple inheritance are not supported by modern languages such as JAVA and C# ?
+- True
+====================================================================
+94- Up Casting is converting derived object to it's base object?
+- True
+====================================================================
+95- Down Casting is Converting Base object to Derived object?
+- True
+====================================================================
+96- A pointer of type parent can point to an object of child class?.
+- True, because all the members in which the pointer can access
+  are exist in memory when the object of child class.
+====================================================================
+97- A pointer of child class cannot point to an object of parent class?.
+- True, because the child class members the pointer can access 
+  do not exist in memory when the object is of parent class.
+====================================================================
+98- A virtual function is a member function in the base class that we expect to redefine in derived classes?.
+- True
+====================================================================
+99- Basically, a virtual function is used in the base class in order to ensure that the function is overridden,
+    This especially applies to cases where a pointer of base class points to an object of a derived class.
+- true
+====================================================================
+100- Static Binding: The binding which can be resolved at compile time by the compiler is known as static
+     or early binding. The binding of all the static, private methods is done at compile-time.
+- True
+====================================================================
+101- Dynamic Binding: In Dynamic binding compiler doesn’t decide the method to be called. 
+     Overriding is a perfect example of dynamic binding. In overriding both parent and child classes have the same method.
+- True
+====================================================================
+102- Early Binding and Static Binding are the same?.
+- True
+====================================================================
+103- Late Binding and Dynamic Binding are the same?.
+- True
+====================================================================
+104- Early Binding / Static Binding are done at the compilation time?.
+- True
+====================================================================
+105- Late Binding/Dynamic Binding are done at run time?.
+- True
+====================================================================
+106- Why Polymorphism? Polymorphism allows us to create consistent code?.
+- True
+====================================================================
+107- Polymorphism is one of the important features/principles/concepts of OOP, 
+     word Ploy means "Many" and word Morphism means "Form" so it means "Many Forms", 
+     the ability to take more than one form.
+- True
+====================================================================
+108- We can achieve Polymorphism through:
+- Function Overloading
+- Operator Overloading
+- Overriding
+- Virtual Methods 
+====================================================================
+109- A pure virtual function doesn't have the function body and it must end with = 0?.
+- True
+====================================================================
+110- If you have one pure virtual function in a class then it will be converted to abstract class?.
+- True
+====================================================================
+111- Abstract Class is the same concept of Interface Class and they are both contracts?.
+- Ture
+====================================================================
+112- Abstract Class/Interface Class is a class with pure virtual functions?.
+- True
+====================================================================
+113- You can have an object of abstract class?.
+- No, you can only inherit it.
+====================================================================
+114- An abstract class in C++ has at least one pure virtual function by definition. 
+     In other words, a function that has no definition?.
+- True
+====================================================================
+115- The abstract class's descendants (derived classes) must define the pure virtual function; 
+    otherwise, it is not allowed and you will get error.
+- True
+====================================================================
+116- Derived Classes from abstract class can have extra methods other than the methods in the abstract class?.
+- Yes, it can have extra methods
+====================================================================
+117- The C++ interfaces are implemented using abstract classes and these abstract classes should not be confused
+     with data abstraction which is a concept of keeping implementation details separate from associated data.
+- True
+====================================================================
+118- Abstract Class is the Same as Abstraction in OOP
+- No, they are two different things, these abstract classes should not be confused with data abstraction 
+  which is a concept of keeping implementation details separate from associated data.
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+====================================================================
+
+
+
+
+
+
+
+
+
