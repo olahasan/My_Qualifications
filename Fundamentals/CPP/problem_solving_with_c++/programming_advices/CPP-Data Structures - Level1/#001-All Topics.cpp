@@ -12,4 +12,11 @@
 6- Array  Data Structure
 7- Matrix Data Structure
 8- Stack Data Structure
-9- 
+9- Vector Data Structure
+10- Queue Data Structure
+11- Singly LinkedList
+12- Doubly LinkedList
+13- Circular LinkedList
+14- Abstract Data Type (ADT)
+15- Map
+16- Union
