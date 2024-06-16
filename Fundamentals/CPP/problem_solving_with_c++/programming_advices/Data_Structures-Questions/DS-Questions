@@ -117,39 +117,183 @@ Homogenous Data Structure
 - True
 ====================================================================
 38- An algorithm's space complexity: specifies the total amount of space or memory required to 
-    execute an algorithm as a function of the size of the input.
+    execute an algorithm as a function of the size of the input?
 - True
 ====================================================================
-39- The big-O originally stands for “Order Of“.
+39- The big-O originally stands for “Order Of“?.
 - True
 ====================================================================
-40- Big O tells us about the Efficiency of Algorithm.
+40- Big O tells us about the Efficiency of Algorithm?.
 - True
 ====================================================================
-41- Big O, also known as Big O notation, represents an algorithm's worst-case complexity.
+41- Big O, also known as Big O notation, represents an algorithm's worst-case complexity?.
 - True
 ====================================================================
-42- Big O represents an algorithm's best-case complexity.
+42- Big O represents an algorithm's best-case complexity?.
 - False
 ====================================================================
-43- Big O uses algebraic terms to describe the complexity of an algorithm.
+43- Big O uses algebraic terms to describe the complexity of an algorithm?.
 - True
 ====================================================================
-44- Big O describes the relationship between Input Size and Time/Spcase
+44- Big O describes the relationship between Input Size and Time/Spcase?.
 True
 ====================================================================
-45- Big O tells you the exact time your algorithm's runtime is.
+45- Big O tells you the exact time your algorithm's runtime is?.
 - False
 ====================================================================
-46- Big O does not tell you the exact time your algorithm's runtime is.
+46- Big O does not tell you the exact time your algorithm's runtime is?.
 - True
 ====================================================================
 47- with Big O Notation, we can look at our algorithm and see that it will take O(n) time to run. Big O Notation, written as O(blank), 
 show us how many operations our code will run, 
-and how its runtime grows in comparison to other possible solutions.
+and how its runtime grows in comparison to other possible solutions?.
 - true
 ====================================================================
+48- O(1) Means Constant Time Function?
+- True
 ====================================================================
+49- O(1) is affected by Input Size?
+- false
 ====================================================================
+50- O(1) is not affected by Input Size, so it always takes the same time?.
+- True
+====================================================================
+51- O(1) is the fastest notation, which means that your algorithm is excellent?.
+- True
+====================================================================
+52- O(n) is a constant time function?.
+- False
+====================================================================
+53- O(n) is a linear time function?.
+- True
+====================================================================
+54- O(n) is faster than O(1)?.
+- false
+====================================================================
+55- O(1) is faster than O(n)?.
+- True
+====================================================================
+56- O(n) is affected by Input Size Linearly?.
+- True
+====================================================================
+57- Big O(n^2) is Quadratic Time Function?.
+- True
+====================================================================
+58- O(n) is much faster than O(n^2)?.
+- True
+====================================================================
+59- O(1) is slower than O(n^2)?.
+- False
+====================================================================
+60- O(1) < O(n) < O(n^2) < O(n^3)?.
+- True
+====================================================================
+61- if you have f= 3 + 5n + 6n^2 , then big O is O(n^2)?.
+- True
+====================================================================
+62- Log2 always half itself?.
+- True
+====================================================================
+63- Log means that the number of iterations in the loop is always less than n?.
+- True
+====================================================================
+64- O( log n ) is much faster than O(n)?.
+- True
+====================================================================
+65- To add an Item to a stack you use:...?.
+- Push
+====================================================================
+66- To remove the top item from stack you use:...?.
+- Pop
+====================================================================
+67- To access the last item in stack you use:...?.
+- top
+====================================================================
+68- To get the count of the items in stack you use:...?.
+- size()
+====================================================================
+69- To check if the stack has items or not you use:...?.
+- empty()
+====================================================================
+70- LIFO means Last In First Out?.
+True
+====================================================================
+71- FIFO: means First In First Out.?.
+True
+====================================================================
+72- If you want to print the first item in Queue, you use:...?.
+- front()
+====================================================================
+73- If you want to print the last item in Queue, you use:...?.
+- back()
+====================================================================
+74- If you want to print the count of items in Queue, you use:...?.
+- size()
+====================================================================
+75- If you want add item in Queue, you use:...?.
+- push
+====================================================================
+76- If you want to remove item from Queue, you use:...?.
+- pop
+====================================================================
+77-Queue is using LIFO?.
+- False
+====================================================================
+78- Queue is using FIFO?.
+- True
+====================================================================
+79- A linked list is a linear data structure that includes a series of connected nodes?.
+- True
+====================================================================
+80- In singly linked list each node consists of two parts: Data and Pointer to the address of next node?.
+- True
+====================================================================
+81- Linked List is a data structure used to build other data structures like Stack, Queue , and others?.
+- True
+====================================================================
+82- Linked list allows you to add data dynamically on run time?.
+- True
+====================================================================
+83- In Doubly Linked List Each node consists of a data value, a pointer to the next node, and a pointer to the previous node?.
+- True
+====================================================================
+84- In Doubly Linked List: Traversal can occur in both ways?.
+- True
+====================================================================
+85- In singly linked list: Traversal can occur in both ways?.
+- False
+====================================================================
+86- In Doubly Linked List: It requires more space because of an extra pointer?.
+- True
+====================================================================
+87- ADT is ...?.
+- Abstract Data Type
+====================================================================
+88- What is a std::map in C++?
+- A container in the Standard Template Library (STL) that represents an associative array
+====================================================================
+89- What is the default sorting order of std::map?
+- Ascending order
+====================================================================
+90- What happens if you attempt to insert a duplicate key in a std::map?
+- The value associated with the key will be updated
+====================================================================
+91- What is a union in C++?
+- A user-defined data type that allows you to use the same memory location for different types of data.
+====================================================================
+92- How are members of a union stored in memory?
+- Members of a union share the same memory space.
+====================================================================
+93- What happens when you assign a value to one member of a union?
+- It modifies the shared memory space of the union.
+====================================================================
+94- What is the size of a union determined by?
+- The size of its largest member.
+====================================================================
+95- What can happen if you access a member of a union that wasn't the last one written to?
+- The value might not make sense for that type, resulting in undefined behavior.
+====================================================================
+
+
 
 
