@@ -1,0 +1,155 @@
+1- Program = Algorithms ?
+- False
+====================================================================
+2- Program = Algorithms + Data Structure?.
+- True
+====================================================================
+3- Data Structure : is a way of organizing all data items and their relationships to each others 
+   inside the program in order to deal with them?.
+-True
+====================================================================
+4- Data Structure : does not affects the design of both structural and functional aspects of the program?.
+- False
+====================================================================
+5- Data Structure : affects the design of both structural and functional aspects of the program?.
+- True
+====================================================================
+6- Data structure : is how u organize, manage and store data for efficiency reasons?.
+- True
+====================================================================
+7- A data structure: is not only used for organizing the data. It is also used for processing, retrieving, and storing data?.
+- True
+====================================================================
+8- Various types of data structures have their own characteristics, features, applications, advantages, and disadvantages?.
+- True
+====================================================================
+9- Data Structure is the Same as Database?
+- False
+====================================================================
+10- Data Structure : In computer Programming, Data structure is a way of organizing and storing data 
+    so as to ease the accessing and modification of data?.
+- True
+====================================================================
+11- Database: is a collection of data that is stored in an organized fashion in a table containing rows and columns 
+    using a software package known as Database Management System (DBMS)?.
+- True
+====================================================================
+12- DBMS is used to modify, define, manipulate and manage data. Some examples of DBMS are : MySQL, Oracle Database and Microsoft Access.
+- True
+====================================================================
+13- Some commonly used data structures are Array, Linked List, Stack, Queue, Heap, Binary Tree and Graph?.
+- True
+====================================================================
+14- Data In Database is stored In RAM inside the program?.
+- False
+====================================================================
+15- Data in data structure is stored In RAM inside the program?.
+- True
+====================================================================
+16- Structured query language (SQL) is used to perform operations on the data in Database?.
+- True
+====================================================================
+17- Programming languages C++, Java, Python are used to perform operations using data Structures?.
+-True
+====================================================================
+18- Example of Data Structures : MySQL, Oracle, MongoDB, Sybase etc?.
+- False
+====================================================================
+19- Example Of DBMS (Database) : MySQL, Oracle, MongoDB, Sybase , SQL Server, Access, etc?.
+- True
+====================================================================
+20- Integer is non-Primitive data structure?.
+- False
+====================================================================
+21- Integer is Primitive Data Structure
+- True
+====================================================================
+22- Array is Non-Primitive Data Structure?.
+- True
+====================================================================
+23- Non-Primitive is derived from Primitive Data Structure?.
+- True
+====================================================================
+24- Heterogenous means Different Types?.
+- True
+====================================================================
+25- Homogenous means Same Types?.
+- True
+====================================================================
+26- Linear Data Structure means that data is in non-sequence order?.
+- false
+====================================================================
+27- Linear Data Structure means that data is in sequence order?.
+- True
+====================================================================
+28- Tree and Graph are:
+- Non-Linear, Non-Primitive Data Structure
+====================================================================
+29- Array is:
+- Linear, Non-Primitive Data Structure
+====================================================================
+30- Array is:
+Homogenous Data Structure
+====================================================================
+31- Stack, Queue, Linked Lists are:
+- Dynamic Data Structure
+====================================================================
+32- What Affects Program Speed?
+- Hardware (CPU, RAM)
+- Operating System
+- Algorithm
+====================================================================
+33- What affects Algorithm?
+- Time
+- Space
+====================================================================
+34- Performance has to do with?
+- Hardware , OS
+====================================================================
+35- Complexity has to do with?
+- Time Complexity
+- Space Complexity
+====================================================================
+36- Developer should focus on ?
+- Algorithms
+====================================================================
+37- An algorithm's time complexity: specifies how long it will take to execute an algorithm as a function of its input size?.
+- True
+====================================================================
+38- An algorithm's space complexity: specifies the total amount of space or memory required to 
+    execute an algorithm as a function of the size of the input.
+- True
+====================================================================
+39- The big-O originally stands for “Order Of“.
+- True
+====================================================================
+40- Big O tells us about the Efficiency of Algorithm.
+- True
+====================================================================
+41- Big O, also known as Big O notation, represents an algorithm's worst-case complexity.
+- True
+====================================================================
+42- Big O represents an algorithm's best-case complexity.
+- False
+====================================================================
+43- Big O uses algebraic terms to describe the complexity of an algorithm.
+- True
+====================================================================
+44- Big O describes the relationship between Input Size and Time/Spcase
+True
+====================================================================
+45- Big O tells you the exact time your algorithm's runtime is.
+- False
+====================================================================
+46- Big O does not tell you the exact time your algorithm's runtime is.
+- True
+====================================================================
+47- with Big O Notation, we can look at our algorithm and see that it will take O(n) time to run. Big O Notation, written as O(blank), 
+show us how many operations our code will run, 
+and how its runtime grows in comparison to other possible solutions.
+- true
+====================================================================
+====================================================================
+====================================================================
+
+
