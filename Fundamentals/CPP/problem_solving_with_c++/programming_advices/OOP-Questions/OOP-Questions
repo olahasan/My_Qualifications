@@ -399,14 +399,88 @@ Protected
 - No, they are two different things, these abstract classes should not be confused with data abstraction 
   which is a concept of keeping implementation details separate from associated data.
 ====================================================================
+119- We can use a friend Class in C++ using the "friend" keyword?.
+- True
 ====================================================================
+120- A friend class can access both private and protected members of the class 
+     in which it has been declared as friend?.
+- True
 ====================================================================
+121- Since ClassB is a friend class, we can access all members of ClassA from inside ClassB. 
+     However, we cannot access members of ClassB from inside ClassA. It is because friend relation in C++ 
+     is only granted, not taken.
+- True
 ====================================================================
+122- If ClassB is declared as a friend Class inside ClassA , ClassB can access all private and protected members of ClassA, 
+     and also ClassA can Access all members of ClassB?.
+- False, only ClassB can access all members of ClassB but ClassA cannot.
 ====================================================================
+123-  A friend function in C++ is defined as a function that can access private, protected and public members of a class?.
+- True
 ====================================================================
+124- The friend function is declared using the friend keyword inside the body of the class?.
+- True
 ====================================================================
+125- By using the keyword, the ‘friend’ compiler understands that the given function is a friend function?.
+- True
 ====================================================================
+126- We declare friend function inside the body of a class, whose private and protective data needs to be accessed, 
+     starting with the keyword friend to access the data. We use them when we need to 
+     operate between two different classes at the same time?.
+- True
 ====================================================================
+127- Friend functions of the class are granted permission to access private and protected members of the class in C++. 
+     They are defined globally outside the class scope. Friend functions are not member functions of the class?.
+- True
+====================================================================
+128- A friend function in C++ is a function that is declared outside a class but 
+     is capable of accessing the private and protected members of the class. There could be situations in programming wherein 
+     we want two classes to share their members. These members may be data members, class functions or function templates. 
+     In such cases, we make the desired function, a friend to both these classes which will allow accessing private and protected data 
+     of members of the class?.
+- true
+====================================================================
+129- Generally, non-member functions cannot access the private members of a particular class. 
+     Once declared as a friend function, the function is able to access the private and the protected members of these classes?.
+- True
+====================================================================
+130- Nested or Inner Classes : A class can also contain another class definition inside itself, which is called “Inner Class” in C++?.
+- Ture
+====================================================================
+131- In the case of nested of inner classes, the containing class is referred to as the “Enclosing Class”. 
+     The Inner Class definition is considered to be a member of the Enclosing Class?.
+- True
+====================================================================
+132- An Inner class is a member and as such has the same access rights as any other member of the enclosure class?.
+- True
+====================================================================
+133- Separating Code and Classes in Libraries will make our life easier and we can control our code and organize it better?.
+- True
+====================================================================
+134- We must user "#pragma once" in each header file to prevent the complier from loading the library more than one time
+     and have repeated code included?.
+- True
+====================================================================
+135- Every object in C++ has access to its own address through an important pointer called this pointer?.
+- True
+====================================================================
+136- The this pointer is an implicit parameter to all member functions?.
+- True
+====================================================================
+137- Therefore, inside a member function, this may be used to refer to the invoking object?.
+- True
+====================================================================
+138- Friend functions do not have a this pointer, because friends are not members of a class. 
+     Only member functions/member data have a this pointer?.
+- True
+====================================================================
+139- 'this' pointer can be used to pass current object as a parameter to another method?.
+- True
+====================================================================
+140- 'this' pointer can be used to refer current class instance variable?.
+- True
+====================================================================
+
 
 
 
