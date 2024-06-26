@@ -1,0 +1,22 @@
+/* html */
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <p class="my-p">This Is Paragraph</p>
+  </body>
+</html>
+*******************************************************************************
+/* css */
+.my-p {
+  color: red;
+  font-size: 40px;
+}
+#my-p {
+  color: red;
+  font-size: 40px;
+}
