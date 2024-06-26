@@ -1,0 +1,162 @@
+https://codepen.io/olahasan/pen/rNdwEOx
+<!-- التكليف من 5:9 -->
+<!-- التكليف الأول -->
+<div class="assign-1-shape-1">Normal Div</div>
+<div class="assign-1-shape-2">Normal Div</div>
+<div class="assign-1-shape-3">Normal Div</div> 
+
+/*  التكليف من 5:9  */
+/*  التكليف الأول  */
+.assign-1-shape-1{ 
+    width:500px;
+    padding:20px;
+    background-color:blueviolet;
+    color:white;
+    margin:15px auto;
+
+}
+
+.assign-1-shape-2{
+    width:500px;
+    padding:20px;
+    color:white;
+    margin:15px auto;
+    background-color:rgb(138 43 226 / 50%);
+
+}
+
+.assign-1-shape-3{
+    width:500px;
+    padding:20px;
+    color:white;
+    margin:15px auto;
+/*     background-color:blueviolet; */
+    background-color: rgb(138 43 226 /.1);
+}
+==============================================================================================================================
+https://codepen.io/olahasan/pen/OJvgexq
+
+<!-- التكليف من 5:8 -->
+<!-- التكليف الثاني -->
+ <div class="assign-2-shape-1">Normal Div</div>
+<div class="assign-2-shape-2">Normal Div</div>
+<div class="assign-2-shape-3">Normal Div</div> 
+<div class="assign-2-shape-4">Normal Div</div>  
+
+/* <!-- التكليف من 5:8 --> */
+/* <!-- التكليف الثاني --> */
+div{
+  width: 400px;
+  height: 400px;
+  background-color: #eee;
+  margin-bottom: 50px;
+}
+.assign-2-shape-1{
+   
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-repeat: no-repeat;
+}
+
+.assign-2-shape-2{
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-repeat: repeat-y;
+}
+
+.assign-2-shape-3{
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-repeat: repeat-x;
+}
+
+.assign-2-shape-4{
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-repeat: repeat;
+}
+==============================================================================================================================
+https://codepen.io/olahasan/pen/QWmgXxb
+
+<!-- التكليف من 5:8 -->
+<!--التكليف الثالث -->
+ <div class="assign-3-shape-1">Normal Div</div>
+<div class="assign-3-shape-2">Normal Div</div>
+<div class="assign-3-shape-3">Normal Div</div>
+<div class="assign-3-shape-4">Normal Div</div> 
+
+/* <!-- التكليف من 5:8 --> */
+/* <!--التكليف الثالث --> */
+div{
+   width:400px;
+   height:400px;
+   margin-bottom:50px;
+  background-color:#eee;
+
+}
+.assign-3-shape-1{
+   
+    background-image:url("https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png");
+    background-repeat:no-repeat;
+}
+
+.assign-3-shape-2{
+    background-image:url("https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png");
+    background-repeat:repeat-y;
+  background-position:right;
+}
+
+.assign-3-shape-3{
+    background-image:url("https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png");
+    background-repeat:repeat-x;
+  background-position:bottom;
+  
+}
+
+.assign-3-shape-4{
+    background-image:url("https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png");
+    background-repeat:repeat;
+}
+==============================================================================================================================
+https://codepen.io/olahasan/pen/PoRjryv
+
+<!-- التكليف من 5:8 -->
+<!--التكليف الرابع -->
+<div class="assign-4-shape-1">Normal Div</div>
+<div class="assign-4-shape-2">Normal Div</div>
+<div class="assign-4-shape-3">Normal Div</div>
+<div class="assign-4-shape-4">Normal Div</div> 
+
+/* <!-- التكليف من 5:8 --> */
+/* <!--التكليف الرابع --> */
+div{
+  width: 400px;
+  height: 400px;
+  background-color:#eee;
+  margin-bottom: 50px;
+
+}
+.assign-4-shape-1{  
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-size: 80% ;
+  background-repeat:no-repeat;
+}
+
+.assign-4-shape-2{
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-size: 80% 100%;
+    background-position:right;
+    background-repeat:no-repeat;
+}
+
+.assign-4-shape-3{
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-size: 100% 80%;
+    background-position:bottom;
+    background-repeat:no-repeat;
+}
+.assign-4-shape-4{   
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-size: 50%;
+    background-position: right bottom;
+    background-repeat:no-repeat;
+} 
+
+
+
