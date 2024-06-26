@@ -1,0 +1,51 @@
+/* html */
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div>
+      <h2>Product Title</h2>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+      <p>This Is Paragraph</p>
+    </div>
+  </body>
+</html>
+**********************************************************************
+/* css */
+div {
+  background-color: red; /* Color Name */
+  background-color: rgb(0 0 0 / 50%); /* Red, Green, Blue, Alpha Channel */
+  background-color: #FF0000; /* Color Hex Code */
+  background-image: url("../imgs/learn-programming.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: left top;
+  background-size: auto;
+}
