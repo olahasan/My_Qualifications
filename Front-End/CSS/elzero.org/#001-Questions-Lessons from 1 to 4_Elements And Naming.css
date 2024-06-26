@@ -1,0 +1,102 @@
+/* التكليف الأول */
+
+/* Any Element With Class Title */
+.title {
+}
+
+/* Element With id nav */
+#nav {
+}
+
+/* div Element */
+div {
+}
+
+/* h2 Element */
+h2 {
+}
+
+**************************************************************************************************
+/* التكليف الثاني */
+/* html التكليف الثاني يكتب في صفحه  */
+
+/* <!-- external style --> */
+<link rel="stylesheet" href="css/file.css" />
+
+/* <!-- internal style --> */
+<style>
+p {
+  color: red;
+}
+</style>
+
+/* <!-- element/inline style --> */
+<p style="color: blue;">This Is Our Paragraph</p>
+
+**************************************************************************************************
+/* التكليف الثالث */
+/* html التكليف الثالث يكتب في صفحه  */
+<link rel="stylesheet" href="assets/css/master.css" />
+
+**************************************************************************************************
+/* التكليف الرابع */
+/* html التكليف الرابع يكتب في صفحه  */
+<link rel="stylesheet" href="../source/css/main.css" />
+
+**************************************************************************************************
+
+/* التكليف الخامس */
+/* Valid */
+._user-name {
+}
+
+/* Valid */
+.-user-name {
+}
+
+/* Valid */
+.-user-name {
+}
+
+/* not Valid  starts with number */
+.1user-name {
+}
+
+/* not Valid  starts with special character */
+.@user-name {
+}
+
+/* not Valid  has special character */
+.user@name {
+}
+
+/*  Valid */
+._user10name {
+}
+
+/* Valid  */
+.u {
+}
+
+**************************************************************************************************
+
+/* التكليف السادس */
+/* Bad (uppercase) */
+.USERNAME {
+}
+
+/* Bad (pascal case) */
+.UserName {
+}
+
+/* good (kebab case) best practice */
+.user-name {
+}
+
+/* Bad  (camel case) */
+.userName {
+}
+
+/* Bad  (lower case)*/
+.usernameprofile {
+}
