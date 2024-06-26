@@ -1,0 +1,35 @@
+/* html */
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div>
+      <h2>Product Title</h2>
+      <p>This Is Paragraph</p>
+    </div>
+  </body>
+</html>
+****************************************************************
+/* css */
+div {
+  background-color: #DDD;
+
+  /* Top Right Bottom Left */
+  /* 10px 10px 10px 10px */
+  /* padding: 10px; */
+
+  /* Top Right Bottom Left */
+  /* 10px 20px 10px 20px */
+  /* padding: 10px 20px; */
+
+  /* Top Right Bottom Left */
+  /* 10px 20px 15px 20px */
+  /* padding: 10px 20px 15px; */
+
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
