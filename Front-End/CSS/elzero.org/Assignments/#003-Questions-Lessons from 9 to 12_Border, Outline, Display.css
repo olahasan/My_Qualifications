@@ -1,0 +1,90 @@
+https://codepen.io/olahasan/pen/vYRZorE
+
+<!-- التكليف من 9:12 -->
+<!-- التكليف الأول -->
+<div class="one">shape 1</div>
+<div class="two">shape 2</div>
+<div class="three">shape 3</div> 
+
+/* <!-- التكليف من 9:12 --> */
+/* <!-- التكليف الأول --> */
+
+div{
+    display: inline-block;
+    font-size: large;
+    padding: 10px;
+    margin:5px;
+    background-color: #eee;
+}
+
+.one{
+    border: 5px solid red;
+    outline: 5px solid black;
+}
+
+.two{  
+    border: 5px solid ;
+    border-color: blue green ;
+    outline: 5px solid black;
+}
+.three{ 
+    border: 5px dashed ;
+    border-color: red green blue yellow ;
+    outline: 5px solid black;
+} 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+https://codepen.io/olahasan/pen/dymRxEP
+
+<!-- التكليف من 9:12 -->
+<!-- التكليف الثاني  -->
+<div class="onee ">this is important note</div>
+<div class="twoo">this is important note</div>
+<div class="threee">this is important note</div> 
+
+
+/* <!-- التكليف من 9:12 --> */
+/* <!-- التكليف الثاني  --> */
+.onee{
+    outline: 10px solid #ddd;
+    background-color: #ddd;
+    width: 400px;
+    padding: 10px;
+    border-left: 3px solid red;
+    margin: 30px;
+}
+
+.twoo{
+    outline: 10px solid #ddd;
+    background-color: #ddd;
+    width: 400px;
+    padding: 10px;
+    margin: 5px;
+    border-left: 3px solid red;
+    margin: 30px;
+    visibility: hidden;
+}
+
+.threee{
+    outline: 10px solid #ddd;
+    background-color: #ddd;
+    width: 400px;
+    padding: 10px;
+    border-left: 3px solid green;
+    margin: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
