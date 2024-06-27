@@ -1,0 +1,62 @@
+https://codepen.io/olahasan/pen/WNzEexz
+
+<!-- التكليف من 13:16 -->
+<!-- التكليف الأول   -->
+ <div class="parent">
+    <div class="child">This Is Child <span class="title">Title</span></div>
+    <span class="title">Child Title</span>
+    <p>Paragraph Content</p>
+  </div>
+  <div class="title">Section Title</div> 
+
+/* <!-- التكليف من 13:16 --> */
+/* <!-- التكليف الأول   --> */
+
+ .parent .child  .title {
+    color:red;
+}
+
+ div .title{
+    color:blue;
+}
+
+ p{
+    color:green;
+}
+
+.title{
+    color:green;
+}
+
+p,
+.title{
+    color:green;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+https://codepen.io/olahasan/pen/dymzbvM
+
+<!-- التكليف من 13:16 -->
+<!-- التكليف الثاني    -->
+ <div>title one </div>
+<div>title two with more words </div>
+<div>title three with many many many many words </div>
+<div>title three with many many many many many many many many many many many many many many many many 
+     many many many many many many many many many many many many many many many many many many many many words </div>
+
+
+/* <!-- التكليف من 13:16 --> */
+/* <!-- التكليف الثاني    --> */
+div{
+    max-width: 400px;
+    width: fit-content;
+    color: white;
+    font-size: large;
+    background-color: brown;
+    padding: 10px;
+    margin: 10px;
+    overflow: hidden;
+}
+
+
+
