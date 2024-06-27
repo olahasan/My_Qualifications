@@ -1,0 +1,118 @@
+https://codepen.io/olahasan/pen/eYMEOKq
+
+<!-- التكليف من 17:21 -->
+<!-- التكليف الأول -->
+<div>elzero web school</div>
+
+ /* <!-- التكليف من 17:21 --> */
+/* <!-- التكليف الأول --> */
+
+div{
+    width: 500px;
+    height: 50px;
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    text-shadow: 2px 2px #f11010, 
+                 5px 4px #0c90a5, 
+                 6px 7px #6b19b7; 
+}
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/bGvrbmx
+
+<!-- التكليف من 17:21 -->
+<!-- التكليف الثاني  -->
+<p class="one">elzero Web school</p>
+<p class="two">elzero Web school</p>
+<p class="three">elzero Web school</p> 
+
+  /* <!-- التكليف من 17:21 --> */
+    /* <!-- التكليف الثاني  --> */
+    p{
+       font-size: 50px;
+       text-align: center;
+      }
+    
+    .one{text-transform: uppercase;}
+    .two{text-transform: capitalize;}
+    .three{text-transform: lowercase;} 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+https://codepen.io/olahasan/pen/poLrzXX
+
+<!-- التكليف من 17:21 -->
+<!-- التكليف الثالث   -->
+ <div class="one">
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+    Ea itaque fugit vitae incidunt quis dolores? Id alias
+    eveniet sequi perspiciatis iusto impedit,
+    accusamus maxime reprehenderit blanditiis adipisci sapiente hic velit.
+  </div>
+
+  <div class="two">
+    Lorem ipsum dolor sit amet consectetur
+  </div>
+
+  <div class="three">
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+    Ea itaque fugit vitae incidunt quis dolores? Id alias
+    eveniet sequi perspiciatis iusto impedit,
+    accusamus maxime reprehenderit blanditiis adipisci sapiente hic velit.
+  </div> 
+
+    /* <!-- التكليف من 17:21 --> */
+    /* <!-- التكليف الثالث   --> */
+    .one{
+        width: 400px;
+        padding: 10px;
+        background-color: #eee;
+        margin: 10px;
+        font-family: sans-serif;
+        white-space: normal;
+    }
+    
+    .two{
+        width: 400px;
+        padding: 10px;
+        background-color: #eee;
+        margin: 10px;
+        font-family: sans-serif;
+    }
+    .three{
+        width: 400px;
+        padding: 10px;
+        background-color: #eee;
+        margin: 10px;
+        font-family: sans-serif;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    } 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/XWEaWXd
+
+<!-- التكليف من 17:21 -->
+<!-- التكليف الرابع   -->
+<a href="https://elzero.org">elzero</a>
+
+
+   /* <!-- التكليف من 17:21 --> */
+    /* <!-- التكليف الرابع   --> */
+    a{ 
+        text-decoration: none;
+        font-size: 50px;
+        text-transform: capitalize;
+        font-family: sans-serif;
+        background-color: #009688;
+        padding: 10px;
+        border-bottom: 10px solid #1e645e;
+        color: white;
+        width: fit-content;
+        margin: auto;
+        display: block;
+    } 
+    
