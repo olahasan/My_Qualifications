@@ -1,0 +1,120 @@
+https://codepen.io/olahasan/pen/WNzENoq
+
+<!-- التكليف من 22:26 -->
+<!-- التكليف الأول  -->
+
+ <div>
+  <p>This Is Paragraph</p>
+</div> 
+
+/* <!-- التكليف من 22:26 -->*/
+/*<!-- التكليف الأول  --> */
+
+ div{
+    border: 5px solid red;
+    padding: 20px 40px;
+}
+
+p{
+    border: inherit;
+    padding: inherit;
+    font-size: 40px;
+    background-color: lightgray;
+    text-align: center;
+} 
+/* 
+ div{
+    border: 5px solid #009688;
+    padding: 20px 40px;
+}
+
+p{
+    border: inherit;
+    padding: inherit;
+    font-size: 40px;
+    background-color: lightgray;
+    text-align: center;
+}  */
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/KKovKXw
+
+<!-- التكليف من 22:26 -->
+<!-- التكليف الثاني   -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&family=Open+Sans:ital,wght@1,300&display=swap"
+  rel="stylesheet">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jomhuria&family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+
+<p class="one">elzero web school</p>
+<p class="two">elzero web school</p>
+<p class="three">elzero web school</p> 
+
+/* <!-- التكليف من 22:26 --> */
+/* <!-- التكليف الثاني   --> */
+
+
+.one{font-style: italic;
+    font-weight : 300;
+    font-family : 'Open Sans', sans-serif;
+}
+
+.two{font-weight: 700;
+    font-family: 'Open Sans', sans-serif;}
+
+.three{font-family: 'Jomhuria', cursive;
+    font-weight: 400;;
+}
+
+.one,
+.two,
+.three{
+    text-align: center;
+    font-size: 50px;
+    text-transform: capitalize;
+} 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/yLKoLve
+
+
+<!-- التكليف من 22:26 -->
+<!--  التكليف الثالث -->
+ <p class="one">elzero web school</p>
+<p class="two">elzero web school</p>
+<p class="three">elzero web school</p>
+
+
+
+/* <!-- التكليف من 22:26 --> */
+/* <!--  التكليف الثالث --> */
+
+html{
+      font-size: 20px;
+}
+
+.one{
+  font-size: 2.5rem;
+}
+
+.two{
+  font-size: 2rem;
+}
+
+.three{
+  font-size: 1.5rem;
+}
+
+.one,
+.two,
+.three{
+    text-transform: capitalize;
+    text-align: center;
+} 
