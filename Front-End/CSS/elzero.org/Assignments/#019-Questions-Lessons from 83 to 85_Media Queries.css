@@ -1,0 +1,208 @@
+https://codepen.io/olahasan/pen/KKoZMXG
+
+<!-- first question -->
+<!-- html -->
+<div class="assign-one">Elzero Web School</div>
+
+<!-- css -->
+div{
+  text-align:center;
+  margin-top:50px;
+}
+@media print {
+    .assign-one {
+        font-size: 40px;
+    }
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/JjLMMGE
+
+<!-- second question -->
+<!-- html -->
+  <div class="contanier">
+
+      <div>
+        <h4>Product One</h4>
+        <p>This Is Product</p>
+      </div>
+
+      <div>
+        <h4>Product Two</h4>
+        <p>This Is Product</p>
+      </div>
+
+      <div>
+        <h4>Product Three</h4>
+        <p>This Is Product</p>
+      </div>
+
+      <div>
+        <h4>Product Four</h4>
+        <p>This Is Product</p>
+      </div>
+
+     </div>
+
+<!-- css -->
+.contanier {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 200px;
+  display: grid;
+  gap: 20px;
+}
+.contanier div {
+  background-color: #a9a9a91c;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #80808021;
+}
+.contanier div h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.contanier div p {
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .contanier div h4 {
+    color: black;
+  }
+  .contanier {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .contanier div h4 {
+    color: red;
+  }
+  .contanier {
+    grid-template-columns: 50% 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .contanier div h4 {
+    color: #009688;
+  }
+  .contanier {
+    grid-template-columns: 25% 25% 25% 25%;
+  }
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/vYRppaa
+
+<!-- third question -->
+<!-- html -->
+  <div class="contanier">
+
+        <div class="one">
+         <h4>Product One</h4>
+         <p>This Is Product</p>
+        </div>
+
+        <div class="two">
+          <h4>Product Two</h4>
+          <p>This Is Product</p>
+        </div>
+
+        <div class="three">
+          <h4>Product Three</h4>
+          <p>This Is Product</p>
+        </div>
+
+        <div class="four">
+          <h4>Product Four</h4>
+          <p>This Is Product</p>
+        </div>
+
+  
+    </div>
+
+<!-- css -->
+.contanier {
+  width: 80%;
+  margin-left: 10%;
+  margin-top:200px;
+  display: grid;
+  gap: 20px;
+}
+
+.contanier div {
+  background-color: #a9a9a91c;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #80808021;
+}
+.contanier div h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.contanier div p {
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .contanier div h4 {
+    color: black;
+  }
+  .contanier {
+    /* grid-template-columns: 100%; */
+    grid-template-columns: repeat(auto-fill,minmax(100%,1fr));
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .contanier div h4 {
+    color: red;
+  }
+  .contanier  {
+    grid-template-areas: 
+    "o o o"
+    "tw th fo"; 
+  }
+
+  .one{
+    grid-area: o;
+  }
+  .two{
+    grid-area: tw;
+  }
+  .three{
+    grid-area: th;
+  }
+  .four{
+    grid-area: fo;
+  }
+
+}
+
+ @media (min-width: 992px) {
+  .contanier div h4 {
+    color: #009688;
+  }
+  .contanier  {
+    grid-template-areas: 
+    "o o "
+    "tw th"
+    "fo fo"; 
+  }
+
+  .one{
+    grid-area: o;
+  }
+  .two{
+    grid-area: tw;
+  }
+  .three{
+    grid-area: th;
+  }
+  .four{
+    grid-area: fo;
+  }
+
+}
