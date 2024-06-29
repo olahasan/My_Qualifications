@@ -1,0 +1,95 @@
+https://codepen.io/olahasan/pen/yLKozmd
+
+<!-- التكليف من 27:29 -->
+<!-- التكليف الأول   -->
+ <div class="parent">
+  <div class="full">full width</div>
+  <div class="three">1/3</div>
+  <div class="three">1/3</div>
+  <div class="three">1/3</div>
+  <div class="two">1/2</div>
+  <div class="two">1/2</div>
+  <div class="four">1/4</div>
+  <div class="four">1/4</div>
+  <div class="four">1/4</div>
+  <div class="four">1/4</div>
+  <p class="clear"></p>
+</div> 
+
+/* <!-- التكليف من 27:29 --> */
+/* <!-- التكليف الأول   --> */
+.parent{
+    width: 800px;
+    background-color: #eee;
+    text-align: center;
+    margin: 100px auto;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.full{
+    background-color: #cdc7c763;
+    width: calc(100% - 30px);
+    margin-left: 15px;
+    margin-bottom: 15px;
+    padding: 20px 0;
+}
+
+.three{
+    float: left;
+    background-color: #cdc7c763;
+    width: calc((100% - (15px * 4)) / 3 );
+    margin-left: 15px;
+    margin-bottom: 15px;
+    padding: 20px 0;
+}
+
+.two{
+    float: left;
+    background-color: #cdc7c763;
+    width: calc((100% - (15px * 3)) / 2 );
+    margin-left: 15px;
+    margin-bottom: 15px;
+    padding: 20px 0;
+}
+
+.four{
+    float: left;
+    background-color: #cdc7c763;
+    width: calc((100% - (15px * 5)) / 4 );
+    margin-left: 15px;
+    margin-bottom: 15px;
+    padding: 20px 0;
+}
+.clear{
+    clear: both;
+}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+<!-- التكليف من 27:29 -->
+<!--التكليف الثاني-->
+<div class="normal">Normal</div>
+<div class="one">One</div>
+<div class="two">Two</div> 
+
+
+/* <!-- التكليف من 27:29 --> */
+/* <!-- التكليف الثاني -->  */
+
+div {
+    margin: 20px auto;
+    width: 300px;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 20px;
+    background-color: rgb(179 179 179); 
+     color: black;
+  }
+
+.one{
+    background-color: rgb(179 179 179 /.1);
+}
+
+.two{
+    opacity: .1;
+} 
