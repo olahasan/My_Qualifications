@@ -1,0 +1,345 @@
+https://codepen.io/olahasan/pen/LYdjema
+
+<!-- التكليف من 30:33 -->
+<!--التكليف الأول   -->
+<div class="green"></div>
+<div class="red"></div>
+<div class="blue"></div>
+<div class="black"></div> 
+
+/* <!-- التكليف من 30:33 -->
+<!--التكليف الأول   --> */
+
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 20px;
+}
+.green{
+    background-color: #439246;
+    position: absolute;
+    z-index: 3;
+    top: 20px;
+    left: 20px;
+}
+.red{
+    background-color: red;
+    position: absolute;
+    z-index: 3;
+    top: 32px;
+    left: 32px;
+}
+
+.blue{
+    background-color: #0c8dc8;
+    position: absolute;
+    z-index: 1;
+}
+
+.black{
+    top: 20px;
+    background-color: black;
+    position: absolute;
+    z-index: -1;
+} 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/RwMZQRR
+
+<!-- التكليف من 30:33 -->
+<!--التكليف الثاني -->
+
+<div>
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod, sed. Ea ipsum
+  similique quasi rem, fugiat voluptatibus reiciendis nam debitis earum quo veniam
+  laudantium mollitia atque! Laborum ea nam doloribus.
+  <span class="top-left">1</span>
+  <span class="bottom-left">2</span>
+  <span class="top-right">3</span>
+  <span class="bottom-right">4</span>
+</div>
+
+/* <!-- التكليف من 30:33 --> */
+/* <!--التكليف الثاني --> */
+
+div{
+    width: 400px;
+    border: 3px solid;
+    border-color: red #03a9f4;
+    padding: 20px;
+    font-size: 17px;
+    position: relative;
+    background-color: #eee;
+    text-align: center;
+    margin: 150px auto;
+    line-height: 2;
+}
+
+.top-left{
+    background-color: #03a9f4;
+    color: white;
+    border-right: 3px solid red;
+    position: absolute;
+    left: -20px;
+    top: -15px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+}    
+
+.bottom-left{
+    background-color: #03a9f4;
+    color: white;
+    border-right: 3px solid red;
+    position: absolute;
+    bottom: -15px;
+    left: -20px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+}
+
+.top-right{
+    background-color: #03a9f4;
+    color: white;
+    border-left: 3px solid red;
+    position: absolute;
+    right: -20px;
+    top: -15px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+}
+   
+.bottom-right{
+    background-color: #03a9f4;
+    color: white;
+    border-left: 3px solid red;
+    position: absolute;
+    bottom: -15px;
+    right: -20px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    
+}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/rNdzdQj
+
+<!-- التكليف من 30:33 -->
+<!--التكليف الثالث -->
+     <ul>
+
+      <li class="html">
+        HTML
+        <ol start="10">
+          <li>Slim</li>
+          <li>Pugjs</li>
+          <li>HAML</li>
+        </ol>
+      </li>
+
+      <li class="css">
+        CSS
+        <ol start="10" type="I">
+          <li>SASS</li>
+          <li>LESS</li>
+          <li>PostCSS</li>
+        </ol>
+      </li>
+
+      <li class="JavaScript">
+        JavaScript
+        <ul>
+          <li>Vuejs</li>
+          <li>Sveltejs</li>
+        </ul>
+      </li>
+
+    </ul>
+
+/* <!-- التكليف من 30:33 --> */
+/* <!--التكليف الثالث --> */
+ul{
+    width: 400px;
+    list-style: none;
+    margin:auto;
+    font-family: sans-serif;
+    font-size: 23px;
+}
+
+ul .html,
+ul .css,
+ul .JavaScript {
+    background-color: #eee;
+    padding: 10px;
+    margin: 5px;
+}
+ul .html ol li,
+ul .css ol li{
+    background-color: rgb(255 255 255);
+    padding: 10px;
+    margin: 5px;
+} 
+
+ul .JavaScript li{
+    list-style: circle;
+    list-style-position: inside;
+    background-color: rgb(255 255 255);
+    padding: 10px;
+    margin: 5px;
+}
+ul .JavaScript ul {
+    width: auto;
+    padding: 0;
+}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/GRxvGmr
+
+<table>
+      <caption>Developers Rating </caption>
+      <thead>
+        <tr>
+          <th>Avatar</th>
+          <th>Group</th>
+          <th>Name</th>
+          <th>Points</th>
+          <th>Control</th>
+        </tr>
+      </thead>
+    
+      <tbody>
+        <tr>
+          <td>
+            <img src="https://e.top4top.io/p_2397s34l91.jpg" alt="pic"
+          </td>
+          <td>Ninja</td>
+          <td>Ahmed Mohamed</td>
+          <td>120</td>
+          <td>
+            <button><a class="View" href="" target="_blank">View</a></button>
+            <button><a class="Delete" href="" target="_blank">Delete</a></button>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <img src="https://e.top4top.io/p_2397s34l91.jpg" alt="pic"
+          </td>
+          <td rowspan="2">Shades</td>
+          <td>Shady Nabil</td>
+          <td>180</td>
+          <td>
+            <button><a class="View" href="" target="_blank">View</a></button>
+            <button><a class="Delete" href="" target="_blank">Delete</a></button>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <img src="https://e.top4top.io/p_2397s34l91.jpg" alt="pic"
+          </td>
+          <!-- <td>Shades</td> -->
+          <td>Eman Mahmed</td>
+          <td>160</td>
+          <td>
+            <button><a class="View" href="" target="_blank">View</a></button>
+            <button><a class="Delete" href="" target="_blank">Delete</a></button>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <img src="https://e.top4top.io/p_2397s34l91.jpg" alt="pic"
+          </td>
+          <td rowspan="2">Valhala</td>
+          <td>Mohamed Ibrahim</td>
+          <td>190</td>
+          <td>
+            <button><a class="View" href="" target="_blank">View</a></button>
+            <button><a class="Delete" href="" target="_blank">Delete</a></button>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <img src="https://e.top4top.io/p_2397s34l91.jpg" alt="pic"
+          </td>
+          <!-- <td>Valhala</td> -->
+          <td>Noor Atef</td>
+          <td>110</td>
+          <td>
+            <button><a class="View" href="" target="_blank">View</a></button>
+            <button><a class="Delete" href="" target="_blank">Delete</a></button>
+          </td>
+        </tr>
+
+        <tr>
+          <td>
+            <img src="https://e.top4top.io/p_2397s34l91.jpg" alt="pic"
+          </td>
+          <td>Union</td>
+          <td>Mahmoud adel</td>
+          <td>90</td>
+          <td>
+            <button><a class="View" href="" target="_blank">View</a></button>
+            <button><a class="Delete" href="" target="_blank">Delete</a></button>
+          </td>
+        </tr>
+      </tbody>
+     </table>
+
+
+caption {
+    font-weight: 900;
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    border-bottom: 2px solid green;
+}
+thead {
+    background-color: #000000a1;
+    color: white;
+    font-size: 20px;
+}
+th {
+    padding: 10px;
+}
+tbody {
+    background-color: #eee;
+    font-size: 20px;
+}
+td {
+    padding: 12px;
+}
+img {
+    width: 70px;
+}
+button {
+    border: none;
+    padding: 0;
+
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    padding: 6px 14px;
+
+    
+    /* padding: 6px 10px; */
+    font-size: 17px;
+}
+.View {
+    background-color: #03a9f4;
+}
+.Delete{
+    background-color: #f96a9b;
+}
