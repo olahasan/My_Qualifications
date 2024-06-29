@@ -1,0 +1,103 @@
+https://codepen.io/olahasan/pen/qBoPWgb
+
+<!-- التكليف من 42:45 -->
+<!--التكليف الأول   -->
+<div>
+   will go up on hover in half second
+<p> will go down on hover after half second</p>
+</div> 
+
+/* <!-- التكليف من 42:45 --> */
+/* <!--التكليف الأول   --> */
+ div{
+    transition: margin-top 0.5s 0s ease;
+    font-size: 40;
+    background-color: #eee;
+    padding: 50px 50px 200px;
+    text-align: center;
+    margin: 100px;
+}
+
+div:hover{
+    margin-top: 20px;
+
+}
+
+p{
+    background-color: #ddd;
+    padding: 20px;
+    transition: margin-top 0.5s 0.5s ease;
+    -webkit-transition: margin-top 0.5s 0.5s ease;
+    -moz-transition: margin-top 0.5s 0.5s ease;
+    -ms-transition: margin-top 0.5s 0.5s ease;
+    -o-transition: margin-top 0.5s 0.5s ease;
+}
+
+div:hover p {
+    margin-top: 60px;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/OJvxJPZ
+
+
+<!-- التكليف من 42:45 -->
+<!--التكليف الثاني    -->
+
+<div style="
+  background-color: red;
+  color: white;
+  padding: 20px;
+  border: 1px solid blue;
+  font-size: 80px;">
+  Hello Div
+</div> 
+
+/* <!-- التكليف من 42:45 --> */
+/* <!--التكليف الثاني -->  */
+
+div:hover{
+    width: 400px !important;
+    font-size: 20px !important;
+    border: 10px solid #d7cece !important;
+    background-color: #d7cece !important;
+    text-align: center;
+    color: black !important;
+    text-indent: -9999px;
+    position: relative;
+
+}
+div::after{
+    content: "elzero";
+    text-indent: 0px;
+    position: absolute;
+    width: 400px;
+    left: 10px;
+    font-weight: bold;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/rNdGNLa
+
+<!-- التكليف من 42:45 -->
+<!--التكليف الثالث -->
+<div>Element</div>
+<div>Element</div>
+<div>Element</div>
+
+
+/* <!-- التكليف من 42:45 --> */
+/* <!--التكليف الثالث -->  */
+:root {
+    --mainColor: #009688;
+    --mainPadding: 10px;
+  }
+  
+  div {
+    border: 3px solid var(--mainColor, black);
+    padding: var(--mainPadding, 10px);
+/*     padding: var(--mainPadding 10px); */
+    margin: 5px;
+    font-size: 30px;
+/*     color: var(--mainColor: #009688, red); */
+    color: var(--mainColor, red);
+  } 
+
