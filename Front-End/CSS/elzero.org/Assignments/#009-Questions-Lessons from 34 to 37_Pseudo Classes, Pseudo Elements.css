@@ -1,0 +1,156 @@
+https://codepen.io/olahasan/details/eYMEXzm
+
+<!-- التكليف من 34:37 -->
+<!--التكليف الأول -->
+<div>One</div>
+<div></div>
+<div>Three</div> 
+
+/* <!-- التكليف من 34:37 --> */
+/* <!--التكليف الأول --> */
+
+div{
+    background-color: #eee;
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    left: 40%;
+    font-size: 50px;
+}
+
+
+div:empty{
+    background-color: red;
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    left: 40%;
+    font-size: 50px;
+    margin: 20px 0;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/NWYvJBZ
+
+
+<!-- التكليف من 34:37 -->
+<!--التكليف الثاني  -->
+<div>1 Hello, Welcome To Elzero Web School</div>
+
+
+
+/* <!-- التكليف من  34:37 --> */
+/* <!--التكليف الثاني  -->  */
+div{
+    background-color: #ddd;
+    padding: 35px;
+    font-size: 40px;
+    position: relative;
+    width: 700px;
+    left: 19%;
+    margin-top: 200px;
+}
+
+div::first-letter{
+    background-color: red;
+    color: white;
+    padding: 15px;
+    position: absolute;
+    margin-left: -58px;
+    margin-right: 20px;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/zYWdXrE
+
+<!-- التكليف من 34:37 -->
+<!--التكليف الثالث -->
+<p data-person="Osama">This Is Very Very Long Comment Number One</p>
+<p data-person="Ahmed">This Is Very Very Long Comment Number Two</p>
+<p data-person="Sayed">This Is Very Very Long Comment Number Three</p> 
+
+
+/* <!-- التكليف من 34:37 --> */
+/* <!--التكليف الثالث -->  */
+
+ p{
+    border-left: 5px solid red;
+    background-color: #ddd;
+    padding: 20px;
+    width: 400px;
+    position: relative;
+    left: 37%;
+    top: 180px;
+    font-size: 20px;
+} 
+
+p::after{
+    content: attr(data-person);
+    background-color: #ddd;
+    padding: 15px;
+    position: absolute;
+    left: -111px;
+    top: 6px;
+    width: 60px;
+    text-align: center;
+} 
+
+
+p::before{
+    content: "";
+    border: 2px solid;
+    left: -25px;
+    background-color: #03a9f400;
+    position: absolute;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent red transparent transparent;
+}  
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/wvmqZPM
+
+
+<!-- التكليف من 34:37 -->
+<!-- التكليف الرابع  -->
+
+<p>This Is Very Very Long Product Title</p>
+<p>This Is Very Very Long Product Title</p>
+<p>This Is Very Very Long Product Title</p>
+<p>This Is Very Very Long Product Title</p>
+<p>This Is Very Very Long Product Title</p>
+<p>This Is Very Very Long Product Title</p> 
+
+
+/* <!-- التكليف من 34:37 --> */
+/* <!-- التكليف الرابع  --> */
+
+p{
+    background-color: #eee;
+    padding: 20px;
+    width: 400px;
+    font-size: 22px;
+    position: relative;
+    border-right: 5px solid #f44336;
+    left: 35%;
+    top: 60px;
+    counter-increment: ola;
+}
+
+p::before{
+    content: counter(ola);
+    position: absolute;
+    background-color: #f44336;
+    padding: 20px;
+    top: 0px;
+    left: -51px;
+    color: white;
+}
+
+/* p::after{
+    content: "";
+    border: "";
+    position: absolute;
+    
+}  */
