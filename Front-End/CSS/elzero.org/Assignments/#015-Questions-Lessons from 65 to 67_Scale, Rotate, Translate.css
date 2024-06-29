@@ -1,0 +1,175 @@
+https://codepen.io/olahasan/pen/MWVOJex
+
+<!-- first question -->
+<!-- html -->
+<div>Elzero</div>
+
+
+<!-- css -->
+div{
+    width: 300px;
+    height: 200px;
+    background-color: #eee;
+    margin: 200px auto;
+    border: 3px solid #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: #03a9f4;
+}
+div::before,
+div::after{
+    content: "";
+    width: 310px;
+    height: 210px;
+    position: absolute;
+}
+
+div::before{
+    background-color: #03a9f4;
+    z-index: -1;
+    transform:;
+    transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+}
+
+div::after{
+    background-color: #e91e63;
+    z-index: -3;
+    transform: rotate(5deg);
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -ms-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/ExEbZeK
+<!-- second question -->
+<!-- html -->
+<div>Elzero</div>
+
+<!-- css -->
+div{
+    width: 200px;
+    height: 200px;
+    background-color: #eee;
+    margin: 200px auto;
+    border: 1px solid #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+    border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+    -o-border-radius:50%;
+}
+
+div::before,
+div::after{
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+div::before{
+    width: 200px;
+    height: 200px;
+    border: 15px solid #e91e63;
+    border-left-color: transparent;
+    z-index: -1;
+}
+div::after{
+    width: 228px;
+    height: 228px;
+    border: 15px solid #03a9f4;
+    z-index: -3;
+    border-right-color: transparent;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/wvmPgZR
+
+<!-- third question -->
+<!-- html -->
+     <div>Elzero</div>
+
+<!-- css -->
+div{
+    width: 200px;
+    height: 200px;
+    background-color: #eee;
+    margin: 200px auto;
+    border: 1px solid #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+    border-radius: 50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+    -o-border-radius:50%;
+
+  
+}
+
+div:hover::before,
+div:hover::after{
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+
+}
+
+div::before,
+div::after{
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+
+   
+}
+div::before{
+    width: 200px;
+    height: 200px;
+    border: 15px solid #e91e63;
+    border-left-color: transparent;
+    z-index: -1;
+    transition: .5s 0s ease;
+    -webkit-transition: .05s 0 ;
+    -moz-transition: .05s 0 ;
+    -ms-transition: .05s 0 ;
+    -o-transition: .05s 0 ;
+
+}
+div::after{
+    width: 228px;
+    height: 228px;
+    border: 15px solid #03a9f4;
+    z-index: -3;
+    border-right-color: transparent;
+    transition: .5s .5s ease;
+    -webkit-transition: .5s .5s ease;
+    -moz-transition: .5s .5s ease;
+    -ms-transition: .5s .5s ease;
+    -o-transition: .5s .5s ease;
+}
