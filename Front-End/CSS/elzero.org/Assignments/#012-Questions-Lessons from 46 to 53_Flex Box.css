@@ -1,0 +1,300 @@
+https://codepen.io/olahasan/pen/QWmqqwg
+
+<!-- التكليف من 46:53 -->
+<!--التكليف الأول-->
+<div>Elzero</div>
+
+  /* <!-- التكليف من 46:53 --> */
+  /* <!--التكليف الأول -->  */
+div{
+    width: 100px;
+    height: 100px;
+    background-color: #eee;
+    border-radius: 50%;
+    box-shadow: 4px 0px 0px orange, 
+               -4px 0 0 #00bcd4;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/QWmqqoB
+
+<!-- التكليف من 46:53 -->
+<!--التكليف الثاني    -->
+<div class="parent">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+  <div>4</div>
+  <div>5</div>
+  <div>6</div>
+</div>
+
+/* <!-- التكليف من 46:53 --> */
+/* <!--التكليف الثاني    --> */
+.parent{
+    width: 600px;
+    height: 300px;
+    padding: 15px;
+    background-color: #9e9e9e29;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+    margin: 30px auto;
+
+}
+div{
+    padding: 12px;
+    text-align: center;
+/*     display: flex;
+    justify-content: center;
+    align-items: center; */
+    background-color: #f44336;
+    color: white;
+    width: calc(82% / 3);
+    font-size: 20px;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/eYMGebZ
+
+<!-- التكليف من 46:53 -->
+<!--التكليف الثالث-->
+<div class="parent">
+  <div class="one">1</div>
+  <div class="two">2</div>
+  <div class="three">3</div>
+  <div class="four">4</div>
+  <div class="five">5</div>
+  <div class="six">6</div>
+</div> 
+
+/* <!-- التكليف من 46:53 --> */
+/* <!--التكليف الثالث  --> */
+
+.parent{
+    width: 600px;
+    height: 300px;
+    margin: 30px auto;
+    background-color: #9e9e9e52;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+div {
+    padding: 15px;
+    text-align: center;
+    background-color: #607d8b;
+    color: white;
+    width: calc(82% / 3);
+}
+
+.one{
+    order: 6;
+    align-self: flex-end;
+}
+.two{
+    order: 5;
+}
+.three{
+    order: 2;
+    align-self: flex-start;
+}
+.four{
+    order: 3;
+}
+.five{
+    order: 4;
+}
+.six{
+    order: 1;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/ExEwoOR
+
+<!-- التكليف من 46:53 -->
+<!--التكليف الرابع   -->
+<div class="parent">
+  <div class="one">1</div>
+  <div class="two">2</div>
+  <div class="three">3</div>
+</div> 
+
+.parent{
+    width: 600px;
+    height: 300px;
+    background-color: #eee;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 30px auto;
+    color: white;
+}
+div {
+    width: 35px;
+    height: 92px;
+    background-color: #009688;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 21px;
+}
+.two {
+    align-self: self-start;
+    width: 350px;
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/gOeGvQW
+
+<!-- التكليف من 46:53 -->
+<!--التكليف الخامس   -->
+<div class="parent">
+  <div class="one">1</div>
+  <div class="two">2</div>
+  <div class="three">3</div>
+  <div class="four">4</div>
+</div> 
+
+.parent {
+    width: 600px;
+    height: 300px;
+    background-color: #eee;
+    padding: 14px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
+}
+.one,
+.two,
+.three,
+.four{
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.one {
+    background-color: #ff9800;
+    order: 2;
+}
+.two {
+    background-color: #8bc34a;
+    order: 3;
+    align-self: self-end;
+}
+.three {
+    background-color: #795548;
+    order: 4;
+}
+.four {
+    background-color: #673ab7;
+    align-self: flex-end;
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/rNdGKWZ
+
+<!-- التكليف من 46:53 -->
+<!--التكليف السادس  -->
+
+<div class="page">
+  <div class="header">
+    <div class="logo">Logo</div>
+    <ul class="links">
+      <li>Home</li>
+      <li>About</li>
+      <li>Services</li>
+      <li>Contact</li>
+    </ul>
+  </div>
+  <div class="main-area">
+    <div class="content">Content</div>
+    <div class="sidebar">Sidebar</div>
+  </div>
+  <div class="footer">
+    <div class="copyright">Copyright 2021</div>
+    <div class="design">Designed By Elzero</div>
+  </div>
+</div>   
+
+.page {
+    width: 800px;
+    height: 600px;
+    background-color: #eee;
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    margin: 30px auto;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.header {
+    display: flex;
+    /* background-color: blue; */
+    height: 40px;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 5px;
+}
+.logo {
+    width: 15%;
+    height: 40px;
+    background-color: #ddd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul.links {
+    list-style: none;
+    width: 78%;
+    height: 40px;
+    background-color: #ddd;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+li {
+    margin-right: 15px;
+}
+
+.main-area {
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    height: 490px;
+    padding: 5px;
+}
+.content {
+    background-color: #ddd;
+    padding: 15px;
+    width: 60%;
+}
+.sidebar {
+    background: #ddd;
+    padding: 15px;
+    width: 30%;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ddd;
+    width: 100%;
+    padding: 5px;
+    margin: 0 4px;
+} 
+
