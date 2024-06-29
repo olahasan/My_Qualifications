@@ -1,0 +1,279 @@
+https://codepen.io/olahasan/pen/rNdpNZB
+
+<!-- first question -->
+<!-- html -->
+ <div class="main red">Elzero</div>
+     <div class="main">Testing</div>
+     <div class="red">Testing</div>
+     <div class="main red">Elzero</div>
+     <p class="main red">Testing</p>
+
+
+<!-- css -->
+:root{
+    width: 400px;
+    margin: 150px auto;
+    text-align: center;
+    font-size: 50px;
+}
+div.main.red {
+    color: red;
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/KKoZKjL
+
+<!-- second question -->
+<!-- html -->
+<div class="parent">
+  <div class="child">Testing</div>
+  <div class="child">Elzero</div>
+</div>
+<div class="parent">
+  <div>
+    <div class="child">Testing</div>
+  </div>
+</div>
+<div class="child">Testing</div>
+
+<!-- css -->
+:root{
+    width: 400px;
+    margin: 150px auto;
+    text-align: center;
+    font-size: 50px;
+}
+
+.parent >:nth-child(2){
+    color: red;
+}
+/* 
+.parent:first-of-type div:last-child{
+    color: red;
+} 
+*/
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/eYMymmN
+
+<!-- third question -->
+<!-- html -->
+<div class="parent">
+  <div class="baby">Testing</div>
+  <div class="baby">Testing</div>
+</div>
+<div class="parent">
+  <div class="baby">Elzero</div>
+</div>
+<div class="parent">
+  <div>
+    <div>Testing</div>
+  </div>
+  <div class="baby">Testing</div>
+</div>
+<div class="baby">Testing</div>
+
+<!-- css -->
+:root{
+    width: 400px;
+    margin: 150px auto;
+    text-align: center;
+    font-size: 50px;
+}
+.parent>:only-of-type{
+    color: red;
+}
+/*  div:nth-child(2) .baby {
+    color: red;
+} */
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/qBopZKv
+
+<!-- fourth question -->
+<!-- html -->
+<p>Testing</p>
+<div>Testing</div>
+<div>Testing</div>
+<div title="Elzero">Elzero</div>
+<div title="Hello">Elzero</div>
+<div title="HTML">Elzero</div>
+<div>Testing</div>
+<div class="no-need" title="Elzero">Testing</div>
+<div class="parent">
+  <div>Testing</div>
+  <p>Testing</p>
+  <div>Testing</div>
+  <div title="Elzero">Testing</div>
+  <div>Testing</div>
+  <div title="Elzero">Testing</div>
+</div>
+
+<!-- css -->
+:root{
+    width: 400px;
+    margin: 60px auto;
+    text-align: center;
+    font-size: 30px;
+}
+div[title]:not(.parent>:nth-child(odd)) {
+    color: red; 
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/GRxyZaq
+
+<!-- fifth question -->
+<!-- html -->
+<div>
+  <p>Testing</p>
+  <div title="Elzero">Testing</div>
+  <p>Testing</p>
+</div>
+<div>
+  <p>Testing</p>
+  <div title="Elzero">Elzero</div>
+</div>
+<div class="no-need">
+  <p>Testing</p>
+  <div title="Elzero">Testing</div>
+</div>
+<div>
+  <p>Testing</p>
+  <p>Testing</p>
+  <div class="no-need" title="Elzero">Testing</div>
+</div>
+<div>
+  <p title="Elzero">Testing</p>
+  <p title="Elzero">Testing</p>
+  <div>Testing</div>
+</div>
+<div>
+  <p>Testing</p>
+  <div>Testing</div>
+  <div>Testing</div>
+</div>
+
+<!-- css -->
+:root{
+   width: 400px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 30px;
+}
+div:nth-child(2) :last-child{
+    color: red;
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/yLKpJyq
+
+<!-- sith question -->
+<!-- html -->
+<div>
+  <div>Testing</div>
+  <div>Testing</div>
+  <div>Elzero</div>
+  <div>Testing</div>
+</div>
+<div>
+  <div>Testing</div>
+  <div>Testing</div>
+  <div>Testing</div>
+  <div>Elzero</div>
+  <div>Testing</div>
+  <p>Testing</p>
+</div>
+<div class="no-need">
+  <div>Testing</div>
+  <div>Testing</div>
+  <div>Testing</div>
+  <div>Testing</div>
+</div>
+
+<!-- css -->
+:root{
+   width: 400px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 30px;
+}
+div:not(.no-need)>div:nth-last-of-type(2){
+    color:red
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/wvmpWWr
+
+<!-- seventh question -->
+<!-- html -->
+<div>
+  <h3>Testing</h3>
+  <div>Testing</div>
+  <h3>Testing</h3>
+  <h3>Testing</h3>
+  <div>Elzero</div>
+  <div>Testing</div>
+</div>
+<div>
+  <h3>Testing</h3>
+  <div>Testing</div>
+  <h3>Testing</h3>
+  <p>Testing</p>
+  <div>Testing</div>
+  <div>Testing</div>
+</div>
+<div>
+  <div>Testing</div>
+  <h3>Testing</h3>
+  <div>Testing</div>
+  <h3>Testing</h3>
+  <div class="no-need">Testing</div>
+  <div>Testing</div>
+  <div>Testing</div>
+</div>
+<div class="no-need">
+  <h3>Testing</h3>
+  <div>Testing</div>
+  <h3>Testing</h3>
+  <div>Testing</div>
+  <div>Testing</div>
+</div>
+<div class="no-need-2">
+  <h3>Testing</h3>
+  <div>Testing</div>
+  <h3>Testing</h3>
+  <div>Testing</div>
+  <div>Testing</div>
+</div>
+
+<!-- css -->
+:root{
+   width: 400px;
+    margin: 5px auto;
+    text-align: center;
+    font-size: 30px;
+}
+div:first-child>:nth-child(5){
+    color:red;
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/LYdeZxV
+
+<!-- eighth  question -->
+<!-- html -->
+<div>
+      <div>Testing</div>
+      <div>Elzero</div>
+      <div>Elzero</div>
+      <h3>Testing</h3>
+      <p>Elzero</p>
+      <h3>Testing</h3>
+      <div>Testing</div>
+ </div>
+
+<!-- css -->
+:root{
+   width: 400px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 30px;
+}
+div :not(:first-child):not(:last-child):not(h3){
+    color: red;
+}
