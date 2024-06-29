@@ -1,0 +1,386 @@
+https://codepen.io/olahasan/pen/zYWPGae
+<!-- first question -->
+<!-- html -->
+     <div class="grid">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
+
+<!-- css -->
+.grid {
+    FONT-WEIGHT: 200;
+    background-color: #ddd;
+    padding: 20px;
+    width: 800px;
+    height: 400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    grid-template-rows: 50px 1fr;
+    margin:100px auto;
+  }
+
+  .grid div {
+    background-color: #607d8b;
+    counter-increment: count;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.grid div::before{
+    content: "Element  "counter(count);
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/OJvOyjZ
+
+<!-- second question -->
+<!-- html -->
+<div class="layout">
+      <header></header>
+      <section></section>
+      <aside> </aside>
+      <footer></footer>
+    </div>
+
+<!-- css -->
+.layout {
+    display: grid;
+    grid-template-areas: 
+    "h h h h h h h h h h"
+    "s s s s s s s a a a"
+    "f f f f f f f f f f";
+    grid-template-rows: 50px  83vh 50px;
+}
+
+header{
+    grid-area: h;
+    background-color: #03a9f4;
+}
+header::after{
+    content: "Header";
+}
+
+
+section{
+    grid-area: s;
+    background-color: #ff5722;
+}
+section::after{
+    content: "section";
+}
+
+
+aside{
+    grid-area: a;
+    background-color: #607d8b;
+}
+aside::after{
+    content: "section";
+}
+
+footer{
+    grid-area: f;
+    background-color: #4caf50;
+}
+footer::after{
+    content: "footer";
+}
+
+header,
+footer{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    color: white;
+    font-family: sans-serif;
+}
+section,
+aside{
+    padding: 10px;
+    color: white;
+    font-family: sans-serif;
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/WNzXrbV
+<!third question -->
+<!-- html -->
+
+<div class="grid">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+  <div>4</div>
+  <div>5</div>
+  <div>6</div>
+  <div>7</div>
+  <div>8</div>
+</div>
+
+<!-- css -->
+.grid {
+    background-color: #ddd;
+    padding: 20px;
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto 1fr 1fr auto;
+    grid-template-rows: 1fr auto;
+    gap: 20px;
+    margin: 100px auto;
+  }
+  .grid  div {
+    background-color: #607d8b;
+    font-weight: bold;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/yLKPeqg
+
+<!--fourth question -->
+<!-- html -->
+<div class="grid">
+  <div class="one">1</div>
+  <div class="two">2</div>
+  <div class="three">3</div>
+  <div class="four">4</div>
+  <div class="five">5</div>
+  <div class="six">6</div>
+  <div class="seven">7</div>
+  <div class="eight">8</div>
+</div>
+
+<!-- css -->
+.grid {
+    background-color: #ddd;
+    padding: 20px;
+    width: 800px;
+    height: 400px;
+    display: grid;
+    gap: 20px;
+    grid-template-areas: 
+    "ei ei ei"
+    "tw tw th"
+    "fo fi fi"
+    "s fi fi"
+    "se fi fi"
+    "o o o"; 
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 100px auto;
+  }
+
+  .grid div {
+    background-color: #03a9f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one{
+    grid-area: o;
+}
+.two{
+    grid-area: tw;
+}
+.three{
+    grid-area: th;
+}
+.four{
+    grid-area: fo;
+}
+.five{
+    grid-area: fi;
+}
+.six{
+    grid-area: s;
+}
+.seven{
+    grid-area: se;
+}
+.eight{
+    grid-area: ei;
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/rNdYxbp
+
+<!--fifth question -->
+<!-- html -->
+<div class="grid">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+  <div>4</div>
+</div>
+
+<!-- css -->
+.grid {
+    background-color: #ddd;
+    padding: 20px;
+    width: 800px;
+    height: 400px;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    align-content: space-between;
+    margin: 100px auto;
+  }
+
+
+.grid div {
+    background-color: #e91e63;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;    
+}  
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/ZExaOWZ
+
+<!--sixth question -->
+<!-- html -->
+     <div class="grid">
+
+      <div class="one">
+        <h5>Osama Mohamed</h5>
+        <h6>full-stack developer</h6>
+      </div>
+
+      <div class="two">
+        <h5>Ahmed Sayed</h5>
+        <h6>IOS developer</h6>
+      </div>
+
+      <div class="three">
+        <h5>Shady Nabil</h5>
+        <h6>full-stack developer</h6>
+      </div>
+
+      <div class="four">
+        <h5>mohamed Ibrahim</h5>
+        <h6>.Net Developer</h6>
+      </div>
+
+      <div class="five">
+        <h5>mahmoud Mohamed</h5>
+        <h6>full-stack developer</h6>
+      </div>
+
+      <div class="six">
+        <h5>Ezz Eldin</h5>
+        <h6>front-end developer</h6>
+      </div>
+
+      <div class="seven">
+        <h5>Mohamed Sayed</h5>
+        <h6>IOS developer</h6>
+      </div>
+
+      <div class="eight">
+        <h5>Ibrahim Sayed</h5>
+        <h6>IOS developer</h6>
+      </div>
+
+      <div class="nine">
+        <h5>Gamal Sayed</h5>
+        <h6>IOS developer</h6>
+      </div>
+
+      <div class="ten">
+        <h5>Eman Sayed</h5>
+        <h6>IOS developer</h6>
+      </div>
+
+    </div>
+
+
+<!-- css -->
+
+
+.grid {
+    background-color: #ddd;
+    padding: 25px;
+    width: 800px;
+    height: 400px;
+    display: grid;
+    gap: 5px;
+    margin: 100px auto; 
+    font-family: sans-serif;
+   
+    grid-template-areas: 
+    "one one two three"
+    "four five five three"
+    "four six six three"
+    "seven eight nine ten";
+  }
+
+.one{
+    grid-area: one;
+    background-color: white;
+}
+.two{
+    grid-area: two;
+    background-color: white;
+}
+.three{
+    grid-area: three;
+    background-color: black;
+    color:white
+}
+.four{
+    grid-area: four;
+    background-color: white;
+}
+.five{
+    grid-area: five;
+    background-color: black;
+    color:white;
+}
+.six{
+    grid-area: six;
+    background-color: white;
+}
+.seven{
+    grid-area: seven;
+    background-color: white;
+}
+.eight{
+    grid-area: eight;
+    background-color: black;
+    color: white;
+}
+.nine{
+    grid-area: nine;
+    background-color: white;
+}
+.ten{
+    grid-area: ten;
+    background-color: white;
+}
+
+
+.grid div {
+    padding: 10px;
+    font-weight: bold;
+}
+.grid div h6{
+    color: gray;
+    margin: 5px 0;
+}
+.grid div h5 {
+    margin: 0;
+}
