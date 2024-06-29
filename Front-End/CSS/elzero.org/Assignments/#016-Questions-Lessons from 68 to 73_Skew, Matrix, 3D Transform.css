@@ -1,0 +1,202 @@
+https://codepen.io/olahasan/pen/dymZeXd
+
+<!-- first question -->
+<!-- html -->
+     <h1>Elzero</h1>
+
+<!-- css -->
+h1{
+    width: 150px;
+    height: 100px;
+    margin: 300px auto;
+    background-color: #ff5722;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: relative;
+}
+h1::before,
+h1::after{
+    content: "";
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    background-color: #ff5722;
+}
+
+h1::before{
+    z-index: -1;
+    transform: skew(15deg, 15deg);
+    -webkit-transform: skew(15deg, 15deg);
+    -moz-transform: skew(15deg, 15deg);
+    -ms-transform: skew(15deg, 15deg);
+    -o-transform: skew(15deg, 15deg);
+}
+h1::after {
+    z-index: -2;
+    transform: skew(-15deg, -15deg);
+    -webkit-transform: skew(-15deg, -15deg);
+    -moz-transform: skew(-15deg, -15deg);
+    -ms-transform: skew(-15deg, -15deg);
+    -o-transform: skew(-15deg, -15deg);
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/ExEbRyp
+
+<!-- second & third question -->
+<!-- html -->
+<h1>Elzero</h1>
+
+<!-- css -->
+/* التكليف الثاني */
+h1{
+    width: 150px;
+    height: 100px;
+    background-color: #009688;
+    margin: 300px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: relative;
+    font-size: 40px;
+    
+}
+h1::after{
+    content: "";
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    background-color: #009688;
+    right: 25px;
+    z-index: -1;
+    transform: skewX(22deg);
+    -webkit-transform: skewX(22deg);
+    -moz-transform: skewX(22deg);
+    -ms-transform: skewX(22deg);
+    -o-transform: skewX(22deg);
+}
+h1::before{
+    content: "";
+    position: absolute;
+    width: 30px;
+    height: 100px;
+    background-color: #009688;
+    transform: skewX(22deg);
+    left: -66px;
+    -webkit-transform: skewX(22deg);
+    -moz-transform: skewX(22deg);
+    -ms-transform: skewX(22deg);
+    -o-transform: skewX(22deg);
+}
+/* التكليف الثالث */
+/* .class {
+    matrix(3, 0.2679, 0, 3, 20, 100);
+  }
+
+- scaleX =  3 
+- skewY  = 0.2679
+- skewX = 0
+- scaleY =  3 
+- translateX = 20
+- translateY = 100 */
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/wvmPxGp
+
+<!-- fourth question -->
+<!-- html -->
+     <div></div>
+
+<!-- css -->
+div{
+    width: 200px;
+    height: 200px;
+    background-color: #607d8b;
+    border-bottom: 5px solid black;
+    margin: 300px auto;
+    position: relative;
+}
+div::before{
+    content: "Elzero";
+    font-size: 21px;
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    left: 10px;
+    bottom: 5px;
+}
+div::after{
+    content: "";
+    position: absolute;
+    width: 139px;
+    height: 137px;
+    background-color: black;
+    top: -71px;
+    left: 29px;
+    transform:rotate(45deg);
+    -webkit-transform:rotate(45deg);
+    -moz-transform:rotate(45deg);
+    -ms-transform:rotate(45deg);
+    -o-transform:rotate(45deg);
+    border-bottom: 4px solid white;
+    border-right: 4px solid white;
+  
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/QWmOVVj
+
+<!-- fifth question -->
+<!-- html -->
+<div class="one"></div>
+<div class="two"></div>
+     
+<!-- css -->
+.one,
+.two {
+    margin: 10px auto;
+    width: 200px;
+    height: 200px;
+    perspective: 600px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: 1s 0s ease;
+}
+.one::before,
+.one::after,
+.two::before,
+.two::after {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one::before,
+.two::before {
+    content: "Front";
+    background-color: #EA2264;
+}
+.one::after,
+.two::after {
+    content: "Back";
+    background-color: #1692FC;
+    backface-visibility: hidden;
+}
+.one::after {
+    transform: rotatey(180deg);
+}
+.two::after {
+    transform: rotatex(180deg);
+}
+.one:hover {
+    transform: rotatey(180deg);
+}
+.two:hover {
+    transform: rotatex(180deg);
+}
