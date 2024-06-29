@@ -1,0 +1,94 @@
+https://codepen.io/olahasan/pen/wvmrXqd
+
+<!-- التكليف من 54:56 -->
+<!--التكليف الأول   -->
+<div>Elzero</div>
+
+
+/* <!-- التكليف من 54:56 --> */
+/* <!--التكليف الأول ث  --> */
+div{
+    width: 600px;
+    background-color: #eee;
+    padding: 20px;
+    margin: 250px auto;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    position: relative;
+    box-sizing: border-box !important;
+    height: 100px;
+}
+div::first-letter{   
+     color: red;
+}
+
+div::before{
+    content: "";
+    position: absolute;
+    width: 620px;
+    height: 120px;
+    left: -10px;
+    top: -10px;
+    z-index: -1;
+    background-image: linear-gradient(to right,
+    #f44336 20% , 
+    #03a9f4 20% ,
+    #03a9f4 40% ,
+    #4caf50 40% , 
+    #4caf50 60% ,
+    #e91e63 60% ,
+    #e91e63 80% ,
+    #9c27b0 80%);
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/KKoXejG
+
+
+<!-- التكليف من 54:56 -->
+<!--التكليف الثاني   -->
+<div class="one">
+  <input type="text" class="text" placeholder="one" value="Elzero"></input>
+</div>
+<div class="two">
+  <input type="text" class="text" placeholder="two"></input>
+</div>
+<div class="three">
+  <input type="text" class="text" placeholder="three"></input>
+</div> 
+
+
+.one,
+.two,
+.three{
+    width: 600px;
+    padding: 20px;
+    background-color: #eee;
+    font-size: 30px;
+    position: relative;
+    margin: 30px auto;
+    caret-color:red;
+}
+
+input.text{
+    padding: 0px;
+    background-color: #eee;
+    font-size: 30px;
+    border: 1px;
+    outline: none;
+}
+.one::after,
+.two::after,
+.three::after{
+    content: "";
+    width: 100%;
+    height: 5px;
+    position: absolute;
+    left: 0px;
+    bottom: -5px;
+    background-image: linear-gradient(to right,#f44336 50%,
+                                               #009688 50% );
+}
+
+
