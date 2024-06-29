@@ -1,0 +1,114 @@
+https://codepen.io/olahasan/pen/PoRExEK
+
+<!-- first & second question -->
+<!-- html -->
+<!-- السؤال الأول -->
+    <div class="arrow top">Elzero</div>
+     <div class="arrow right">Elzero</div>
+     <div class="arrow bottom">Elzero</div>
+     <div class="arrow left">Elzero</div>
+
+<!-- css -->
+/* السؤال الأول */
+/* 1 */
+.center-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 2 */
+.center-position{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* 3 */
+.circle-100{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+/* 4 */
+
+.circle-200{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+
+
+/* السؤال الثاني */
+
+.arrow {
+    background-color: #9e9e9e33;
+    width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    font-size: 20px;
+    position:relative;
+}
+.top::after{
+    content: "";
+    position: absolute;
+    border: 29px solid transparent;
+    border-bottom-color: #9e9e9e33;
+    top: -70%;
+    left: 50%;
+    transform: translate(-50%);
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    -o-transform: translate(-50%);
+}
+.right::after{
+    content: "";
+    position: absolute;
+    border: 29px solid transparent;
+    border-left-color: #9e9e9e33;
+    top: 50%;
+    right: 50px;
+    transform: translate(108px, -50%);
+    -webkit-transform: translate(108px, -50%);
+    -moz-transform: translate(108px, -50%);
+    -ms-transform: translate(108px, -50%);
+    -o-transform: translate(108px, -50%);
+}
+.bottom::after{
+    content: "";
+    position: absolute;
+    border: 29px solid transparent;
+    border-top-color: #9e9e9e33;
+    bottom: -58px;
+    left: 50%;
+    transform: translate(-50%, 0px);
+    -webkit-transform: translate(-50%, 0px);
+    -moz-transform: translate(-50%, 0px);
+    -ms-transform: translate(-50%, 0px);
+    -o-transform: translate(-50%, 0px);
+}
+.left::after{
+    content: "";
+    position: absolute;
+    border: 29px solid transparent;
+    border-right-color: #9e9e9e33;
+    top: 50%;
+    left: -58px;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+}
