@@ -1,0 +1,311 @@
+https://codepen.io/olahasan/pen/XWEzOBx
+
+<!-- first question -->
+<!-- html -->
+<div></div>
+
+<!-- css -->
+div{
+    width: 50px;
+    height: 50px;
+    border: 5px solid #03a9f4;
+    position: relative;
+    border-right-color: transparent;
+    margin:100px auto;
+
+    animation-name: ro;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+div:hover{
+    animation-play-state: paused;
+}
+
+div::before{
+    content: "";
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    border: 5px solid #f403cc;
+    border-left-color: transparent;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    
+}
+
+
+div::after{
+    content: "";
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    border: 5px solid #f4bc03;
+    border-left-color: transparent;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+
+@keyframes ro {
+    to{
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+}
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/jOzaJrp
+
+<!-- second question -->
+<!-- html -->
+     <div></div>
+
+<!-- css -->
+ div{
+    width: 50px;
+    height: 50px;
+    border: 5px solid #f4bc03 ;
+    position: relative;
+    border-bottom-color: transparent;
+    margin:100px auto;
+
+    animation-name: ro;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-play-state: paused;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+
+div:hover,
+div:hover::before,
+div:hover::after{
+    animation-play-state: running;
+}
+
+
+div::before{
+    content: "";
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    border: 5px solid #03a9f4;
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+
+    animation-name: ro;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-play-state: paused;
+}
+
+
+div::after{
+    content: "";
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    border: 5px solid #000;
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+
+    animation-name: ro;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-play-state: paused;
+}
+
+
+@keyframes ro {
+    to{
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+}
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/ExEbMba
+
+<!-- third question -->
+<!-- html -->
+     <span></span>
+
+<!-- css -->
+ span{
+    width: 50px;
+    height: 50px;
+    border: 5px solid black ;
+    border-bottom-color: transparent;
+    margin:100px auto;
+
+    animation-name: ro;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: reverse;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+span::before{
+    content: "";
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    z-index: -1;
+    background-color: #80808042;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+
+}
+
+@keyframes ro {
+    to{
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+}
+} 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+https://codepen.io/olahasan/pen/jOzaJjo
+<!-- fourth question -->
+<!-- html -->
+<div class="all">
+
+<div class="l-y"></div>
+<div class="l-x"></div>
+
+<div class="e-l"></div>
+<div class="e-x-1"></div>
+<div class="e-x-2"></div>
+<div class="e-x-3"></div>
+
+<!-- css -->
+
+.all{
+    margin: 50px auto;
+    
+}
+
+.all .l-y{
+    background-color: black;
+    width: 40px;
+    height: 200px;
+   
+}
+.all .l-x{
+    background-color: #060606;
+    width: 130px;
+    height: 40px;
+}
+
+.all .l-y,
+.all .l-x{
+    margin-left: 500px;
+}
+
+.all .e-l{
+   
+}
+
+.all .e-l{
+    background-color: black;
+    width: 40px;
+    height: 200px;
+} 
+.e-x-1{
+    background-color: #060606;
+    width: 130px;
+    height: 40px;
+}
+.e-x-2{
+    background-color: #060606;
+    width: 130px;
+    height: 40px;
+    position: relative;
+    top: -280px;
+}
+.e-x-3{
+    background-color: #060606;
+    width: 130px;
+    height: 40px;
+    position: relative;
+    top: -206px;
+}
+
+.all .e-l,
+.e-x-1,
+.e-x-2,
+.e-x-3{
+    margin-left: 349px;
+}
+
+/*
+<div class="all">
+
+<div class="l-y"></div>
+<div class="l-x"></div>
+
+<div class="e-l"></div>
+<div class="e-x-1"></div>
+<div class="e-x-2"></div>
+<div class="e-x-3"></div>
+
+
+</div>
+*/
