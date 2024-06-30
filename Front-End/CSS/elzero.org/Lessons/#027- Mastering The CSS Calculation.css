@@ -1,0 +1,37 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div>Product One</div>
+    <div>Product Two</div>
+    <div>Product Three</div>
+    <div>Product Four</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+body {
+  margin: 0;
+}
+div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #eee;
+  float: left;
+  width: calc((100% - 60px) / 5);
+  margin-left: 10px;
+}
+/*
+  Content Width Is: 100%
+  6 Spaces  10px * 6 => 60px From Content Width
+  100% - 60px Available Space
+  5 Elements The Width Is: (100% - 60px) / 5
+*/
