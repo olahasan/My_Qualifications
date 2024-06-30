@@ -1,0 +1,26 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div>Osama Mohamed</div>
+    <hr>
+    <div>Osama Mohamed Ahmed</div>
+    <hr>
+    <div>Osama Mohamed Ahmed Sayed</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+div {
+  background-color: red;
+  padding: 10px;
+  display: inline-block;
+  max-width: 400px;
+}
