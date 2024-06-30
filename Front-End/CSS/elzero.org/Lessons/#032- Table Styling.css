@@ -1,0 +1,66 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <td>Name</td>
+          <td>Age</td>
+          <td>Email</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Osama</td>
+          <td>38</td>
+          <td>o@nn.sa</td>
+        </tr>
+        <tr>
+          <td>Ahmed</td>
+          <td>38</td>
+          <td>o@nn.sa</td>
+        </tr>
+        <tr>
+          <td>Sayed</td>
+          <td>38</td>
+          <td>o@nn.sa</td>
+        </tr>
+        <tr>
+          <td>Ali</td>
+          <td>38</td>
+          <td>o@nn.sa</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+table {
+  width: 100%;
+  border: 1px solid #CCC;
+  border-spacing: 0;
+}
+table td {
+  padding: 15px;
+  background-color: #EEE;
+  border: 1px solid #CCC;
+}
+table thead td {
+  background-color: #f44336;
+  color: #FFF;
+  font-weight: bold;
+  text-align: center;
+  border-color: #F35246;
+}
