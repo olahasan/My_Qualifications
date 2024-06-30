@@ -1,0 +1,31 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div>
+      <h3>Elzero Web School</h3>
+      <p>Welcome To The Website</p>
+    </div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+div {
+  text-align: center;
+  padding: 20px;
+  background-color: #EEE;
+  font-size: 20px;
+  border: 2px solid blue;
+}
+div p {
+  border: 2px solid;
+  border-color: inherit;
+  padding: inherit;
+}
