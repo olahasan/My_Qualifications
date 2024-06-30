@@ -1,0 +1,29 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <a href="#">Google</a>
+    <span>Test</span>
+    <button>Click</button>
+    <hr>
+    <p>This Is P</p>
+    <p>This Is P</p>
+    <p>This Is P</p>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+button {
+  background: transparent;
+  border: none;
+  color: red;
+  font-weight: bold;
+  cursor: pointer;
+}
