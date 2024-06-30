@@ -1,0 +1,38 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div class="parent">
+      <div>Product One</div>
+      <div>Product Two</div>
+      <div>Product Three</div>
+      <div>Product Four</div>
+    </div>
+    <div class="clear"></div>
+    <p>This Is P For Testing Float</p>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+.parent {
+  background-color: red;
+  padding: 10px;
+}
+.parent div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #eee;
+  width: 25%;
+  float: left;
+}
+.clear {
+  clear: both;
+}
