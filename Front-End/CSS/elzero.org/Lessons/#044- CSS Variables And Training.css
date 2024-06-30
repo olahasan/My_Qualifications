@@ -1,0 +1,54 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div class="main">Main Div</div>
+    <h2>Main Title</h2>
+    <p>My Paragraph</p>
+    <a href="#">My Link</a>
+    <div class="local">Local</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+/*
+  CSS Variables
+  - Global Variable
+  - Local Variable
+  var(Variable Name, Fall Back Value)
+*/
+
+:root {
+  --mainColor: blue;
+  --mainPadding: 10px;
+}
+.main {
+  background-color: var(--mainColor, black);
+  color: white;
+  padding: calc(20px + var(--mainPadding));
+}
+h2 {
+  color: var(--mainColor);
+  background-color: #eee;
+  padding: var(--mainPadding);
+}
+p {
+  color: var(--mainColor);
+  border: 2px solid var(--mainColor);
+  padding: var(--mainPadding);
+}
+a:hover {
+  color: var(--mainColor);
+}
+.local {
+  --mainColor: black;
+  background-color: var(--mainColor);
+  color: white;
+}
