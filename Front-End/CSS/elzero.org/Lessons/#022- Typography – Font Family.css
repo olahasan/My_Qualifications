@@ -1,0 +1,28 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div class="with-ser">Welcome To Elzero Web School, Hello F</div>
+    <div class="san-ser">Welcome To Elzero Web School, Hello F</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+.with-ser {
+  font-family: 'Times New Roman', Times, serif;
+}
+.san-ser {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.with-ser,
+.san-ser {
+  background-color: #EEE;
+  padding: 10px;
+}
