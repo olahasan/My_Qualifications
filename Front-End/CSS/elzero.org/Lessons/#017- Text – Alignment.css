@@ -1,0 +1,24 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div>Elzero Web <img decoding="async" src="https://via.placeholder.com/60" alt=""> School</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+div {
+  background-color: #f9f9f9;
+  text-align: center;
+  direction: ltr;
+}
+img {
+  vertical-align: middle;
+}
