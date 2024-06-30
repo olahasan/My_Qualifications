@@ -1,0 +1,36 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <h3>Title</h3>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>
+        JS
+        <ul>
+          <li>Reactjs</li>
+          <li>Vuejs</li>
+          <li>Angular</li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+ul {
+  list-style-type: lower-armenian;
+/*   list-style: none; */
+}
+li {
+  background-color: #EEE;
+  margin-bottom: 20px;
+}
