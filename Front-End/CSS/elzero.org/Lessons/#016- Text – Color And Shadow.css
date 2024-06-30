@@ -1,0 +1,21 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div>Elzero Web School</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+div {
+  background-color: #f9f9f9;
+  color: rebeccapurple;
+  text-shadow: 0 0 0 red;
+}
