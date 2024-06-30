@@ -1,0 +1,19 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div class="one" style="background-color: red;">One</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+.one {
+  background-color: #EEE !important;
+}
