@@ -1,0 +1,28 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div>Element</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+div {
+  padding: 20px;
+  background-color: #eee;
+  margin: 20px auto;
+  width: 300px;
+  box-shadow:
+    0 0 10px 0 #F10000,
+    0 0 10px 0 #000,
+    0 0 10px 0 #080,
+    0 0 10px 0 #00f,
+    0 0 10px 0 yellow;
+}
