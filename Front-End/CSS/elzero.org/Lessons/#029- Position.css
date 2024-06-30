@@ -1,0 +1,29 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div class="one">One</div>
+    <div class="two">Two</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+div {
+  color: white;
+  width: 100px;
+  padding: 10px;
+}
+.one {
+  background-color: red;
+  position: absolute;
+}
+.two {
+  background-color: green;
+}
