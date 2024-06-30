@@ -1,0 +1,24 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div class="one">Element</div>
+    <div class="two">Element</div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+.one {
+  background-color: red;
+  opacity: 0.1;
+}
+.two {
+  background-color: rgb(255 0 0 / 0.1)
+}
