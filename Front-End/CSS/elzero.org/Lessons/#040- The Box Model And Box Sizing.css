@@ -1,0 +1,38 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <div class="parent">
+      <div class="one">One</div>
+      <div class="one">One</div>
+    </div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.parent {
+  width: 600px;
+  overflow: hidden;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #ddd;
+}
+.one {
+  background-color: #eee;
+  width: 300px;
+  float: left;
+  padding: 10px;
+  border: 1px solid red;
+}
