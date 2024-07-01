@@ -11,13 +11,15 @@ div{
     height: 100px;
     background-color: #eee;
     border-radius: 50%;
-    box-shadow: 4px 0px 0px orange, 
+/*     box-shadow: 4px 0px 0px orange, 
                -4px 0 0 #00bcd4;
+    color: orange; */
+    box-shadow: 9px 0px 0px #ff5722, -9px 0px 0 #00bcd4;
+    color: #ff5722;
     margin: 50px auto;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: orange;
     font-family: sans-serif;
     font-weight: bold;
     font-size: 18px;
