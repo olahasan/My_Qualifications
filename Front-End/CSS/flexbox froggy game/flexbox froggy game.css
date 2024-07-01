@@ -1,0 +1,108 @@
+Level 1 of 24
+
+justify-content:flex-end;
+********************************************************
+Level 2 of 24
+
+justify-content:center;
+********************************************************
+Level 3 of 24
+
+justify-content:space-around;
+********************************************************
+Level 4 of 24
+
+justify-content: space-between;
+********************************************************
+Level 5 of 24
+
+align-items:flex-end;
+********************************************************
+Level 6 of 24
+
+justify-content: center;
+align-items:center;
+********************************************************
+Level 7 of 24
+
+justify-content: space-around;
+align-items: flex-end;
+********************************************************
+Level 8 of 24
+
+flex-direction: row-reverse;
+********************************************************
+Level 9 of 24
+
+flex-direction:column;
+********************************************************
+Level 10 of 24
+
+flex-direction: row-reverse;
+justify-content: flex-end;
+********************************************************
+Level 11 of 24
+
+flex-direction:column;
+justify-content:flex-end;
+********************************************************
+Level 12 of 24
+
+flex-direction:column-reverse;
+justify-content: space-between;
+********************************************************
+Level 13 of 24
+
+flex-direction: row-reverse;
+justify-content: center;
+align-items:flex-end;
+********************************************************
+Level 14 of 24
+
+order:3;
+********************************************************
+Level 15 of 24
+
+order:-5;
+********************************************************
+Level 16 of 24
+
+align-self:flex-end;
+********************************************************
+Level 17 of 24
+
+order:1;
+align-self:flex-end;
+********************************************************
+Level 18 of 24
+
+flex-wrap: wrap;
+********************************************************
+Level 19 of 24
+
+flex-direction:column;
+flex-wrap:wrap;
+********************************************************
+Level 20 of 24
+
+flex-flow: column wrap;
+********************************************************
+Level 21 of 24
+
+align-content: flex-start;
+********************************************************
+Level 22 of 24
+
+align-content: flex-end;
+********************************************************
+Level 23 of 24
+
+flex-direction:column-reverse;
+align-content:center;
+********************************************************
+Level 24 of 24
+
+flex-flow: column-reverse wrap-reverse;
+justify-content: center;
+align-content: space-between;
+
