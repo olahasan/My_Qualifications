@@ -310,7 +310,6 @@ https://codepen.io/olahasan/pen/ZExaOWZ
 
 <!-- css -->
 
-
 .grid {
     background-color: #ddd;
     padding: 25px;
@@ -318,7 +317,7 @@ https://codepen.io/olahasan/pen/ZExaOWZ
     height: 400px;
     display: grid;
     gap: 5px;
-    margin: 100px auto; 
+    margin: 10px auto; 
     font-family: sans-serif;
    
     grid-template-areas: 
@@ -384,3 +383,47 @@ https://codepen.io/olahasan/pen/ZExaOWZ
 .grid div h5 {
     margin: 0;
 }
+
+==================================== [another way]  skip the words , just foucus on layout ===========================
+/*
+//skip the words , just foucus on layout
+.grid {
+  background-color: #ddd;
+  padding: 12px;
+  width: 800px;
+  height: 564px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  gap: 5px;
+  margin: 30px auto;
+}
+
+.grid div {
+  background-color: rgb(233 30 99);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  font-family: sans-serif;
+}
+
+.grid :nth-child(1) {
+  grid-area: 1 / 1 / 2 / 3;
+}
+.grid :nth-child(3) {
+  grid-area: 1 / 4 / 4 / 4;
+}
+.grid :nth-child(4) {
+  grid-area: 2 / 1 / 4 / 2;
+}
+.grid :nth-child(5) {
+  grid-area: 2 / 2 / 3 / 4;
+}
+.grid :nth-child(6) {
+  grid-area: 3 / 2 / 3 / 4;
+}
+
+*/
