@@ -1,0 +1,31 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+  </head>
+  <body>
+    <img decoding="async" src="imgs/learn-programming.png" alt="" />
+  </body>
+</html>
+
+*******************************************************
+/*css*/
+
+/*
+  Filters
+*/
+
+* {
+  box-sizing: border-box;
+}
+img {
+  transition: 0.3s;
+  filter: grayscale(100%);
+}
+img:hover {
+  filter: grayscale(0);
+}
