@@ -375,6 +375,7 @@ https://codepen.io/olahasan/pen/ZExaOWZ
 .grid div {
     padding: 10px;
     font-weight: bold;
+    border-bottom: 2px solid orange;
 }
 .grid div h6{
     color: gray;
@@ -408,6 +409,7 @@ https://codepen.io/olahasan/pen/ZExaOWZ
   font-weight: bold;
   color: white;
   font-family: sans-serif;
+  border-bottom: 2px solid black;
 }
 
 .grid :nth-child(1) {
