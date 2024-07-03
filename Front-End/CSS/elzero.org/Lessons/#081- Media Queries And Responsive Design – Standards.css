@@ -1,0 +1,82 @@
+/*html*/
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS</title>
+    <link rel="stylesheet" href="css/master.css" />
+    <link rel="stylesheet" href="css/print.css" media="print" />
+    <link rel="stylesheet" href="css/print.css" media="(min-width: 1000px) and (max-width: 1400px)" />
+    <style media="print">
+      .parent > div {
+        font-size: 100px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent">
+      <div>1</div>
+      <div>2</div>
+      <div>3</div>
+      <div>4</div>
+    </div>
+  </body>
+</html>
+*******************************************************
+/*css*/
+
+/*
+  Media Queries
+  Responsive Design
+  - Concept Of Width
+  - Mobile
+  - Small Screens
+  - Medium Screens
+  - Large Screens
+  - Future Updates
+*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.parent {
+  display: flex;
+  width: 1200px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 20px auto;
+}
+.parent > div {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  width: 290px;
+}
+
+/* Mobile */
+
+@media (max-width: 767px) {
+}
+
+/* Small Screens */
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* Medium Screens */
+
+@media (min-width: 992px) {
+}
+
+/* Large Screens */
+
+@media (min-width: 1200px) {
+}
+
+/* Custom */
+
+@media (max-width: 1199px) {
+}
