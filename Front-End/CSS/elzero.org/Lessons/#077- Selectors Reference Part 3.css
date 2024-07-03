@@ -1,0 +1,16 @@
+/*
+  CSS Selectors
+  - :first-child
+  - :last-child
+  - :first-of-type
+  - :last-of-type
+  - :only-child
+*/
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
