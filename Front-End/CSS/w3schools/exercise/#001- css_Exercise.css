@@ -1,0 +1,325 @@
+1- CSS Selector:
+
+- <style>
+    p{color: red;}
+  </style>
+
+- <style>
+    #para1{color: red;}
+  </style>
+
+- <style>
+    .colortext{color: red;}
+  </style>
+
+- <style>
+    h1, p{color: red;}
+  </style>
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+2- CSS How To...
+
+- <link rel="stylesheet" href="mystyle.css">
+
+- <style>
+    body{background-color: red;}
+  </style>
+
+- <body style="background-color: red">
+- p{color: red;}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+3- CSS Background:
+
+- p{background-color: blue;}
+- background-image: url("paper.gif");
+- background-repeat: repeat-y;
+- background-repeat: no-repeat;
+  background-position: top right;
+- background-attachment: fixed;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+4- CSS Border: 
+
+- border: 4px dotted red;
+- border-color: red;
+- border-left-style: dotted;
+- border-radius: 5px;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+5- CSS Margin:
+
+- margin-left: 20px;
+- margin: 20px 40px;
+- margin: 20px 15px 25px 10px;
+- margin: auto;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+6- CSS Padding:
+
+- padding-top: 30px;
+- padding: 30px;
+- padding: 40px 10px;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+7- CSS Height/Width:
+
+- height: 100px;
+- width: 50%;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+8- CSS box-model:
+
+- div{width: 200px;}
+- border: 4px dotted red;
+- padding: 25px;
+- margin-left: 25px;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+9- CSS Outline:
+
+- outline-style: solid;
+  outline-width: 5px;
+
+- outline-color: red;
+- outline: 4px dotted red;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+10- CSS Text:
+
+- color: red;
+- text-decoration: none;
+
+- text-transform: uppercase;
+  text-transform: capitalize;
+
+- text-indent: 20px;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+11- CSS Font:
+
+- font-family: Verdana;
+- font-style: italic;
+- font-size: 50px;
+- font-weight: bold;
+- font-variant: small-caps;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+12- CSS Links:
+
+- a{color: red;}
+- a:hover{color: red;}
+- a:visited{color: red;}
+- /* unvisited link */
+  a:link
+
+  /* visited link */
+  a:visited
+
+  /* mouse over link */
+  a:hover
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+13- CSS List:
+
+- list-style-type: square;
+- list-style-image: url("bling.jpg");
+- list-style-type: none;
+- list-style-type: upper-roman;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+14- CSS Table:
+
+- table, th, td{border: 2px solid green;}
+- border-collapse: collapse;
+- <table style="width:100%"></table>
+- td{text-align: right;}
+- th{padding: 15px;}
+- th{background-color: lightblue;}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+15- CSS Display/Visibility
+
+- h1 {visibility: hidden;}
+- h1 {display: none;}
+- li {display: inline;}
+- strong{diplay: block;}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+16- CSS Positioning:
+
+- h1 {
+  position: fixed;  
+  top: 50px;
+  right: 10px;
+  }
+
+- h1 {
+  position: relative;  
+  top: 50px;
+}
+
+- h1 {
+  position: position;  
+  top: 50px;
+}
+
+- .myheader {
+  position: position;  
+  top: 50px;
+  }
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+17- CSS Z-index:
+
+- .myheader {
+  position: position;  
+  top: 50px;
+  }
+
+- #mytitle
+ {
+  position: absolute;
+  top: 0;
+  z-index: 1;  
+ }
+ #myintro
+ {
+  position: absolute;
+  top: 0;
+  z-index: 0;
+ }
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+18- CSS Overflow:
+
+- overflow: scroll;
+- overflow: hidden;
+- overflow-x: scroll;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+19- CSS Align:
+
+- margin: auto;
+- position: position;
+  right:0px;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+20- CSS Combinators:
+
+- div p{color: red;}
+- div > p{color: red;}
+- div + p{color: red;}
+- div ~ p{color: red;}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+21- CSS Pseudo classes:
+
+- a:hover
+- .master:hover
+- p:first-child
+- input:focus
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+22- CSS Pseudo elements:
+
+- .intro::first-line
+- .intro::first-letter
+- p::before {content: url('smiley.gif');}
+  p::after {content: url('smiley.gif');}
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+23- CSS Opacity:
+
+- opacity: 0.5;
+- opacity: 1.0;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+24- CSS Attributes Selector:
+
+- a[target]
+- a[target="_blank"]
+- [title~="blue"]
+- [title^="blue"]
+- [title*="flower"]
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+25- CSS Rounded Corners:
+
+- border-radius: 10px;
+- border-bottom-left-radius: 10px;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+26- CSS Border-Image:
+
+- border-image: url(border.png) 30 round;
+- border-image-repeat: stretch;  
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+27- CSS BackgroundS:
+
+- background-image: url('img2.gif'), url('img1.gif');
+- background-size: 100px 80px;
+- background-position: left top, right top;
+- background-origin: content-box;
+- background-clip: padding-box;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+28- CSS Colors:
+
+- background-color: rgba(255, 0, 0, 1.0);
+- background-color: hsl(0, 100%, 50%);
+- background-color: hsla(0, 100%, 50%, 0.3);
+- opacity: 0.3;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+29- CSS Gradients: 
+
+- background-image: linear-gradient(white, green);
+- background-image: linear-gradient(to right, white, green);
+- background-image: linear-gradient(to left, white, green);
+- background-image: linear-gradient(to bottom right, white, green);
+- background-image: linear-gradient(70deg, white, green);
+- background-image: radial-gradient(white, green);
+- background-image: radial-gradient(circle, white, green);
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+30- CSS Shadow Effects:
+
+- text-shadow: 2px 2px;
+- text-shadow: 2px 2px 5px green;
+- text-shadow: 2px 2px 5px green, 3px 3px 10px red;
+- text-shadow: 10px 10px;
+- box-shadow: 10px 10px red;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+31- CSS Text Effects:
+
+- text-overflow: ellipsis;
+- word-wrap: break-word;
+- word-break: break-all;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+32- CSS Web Fonts:
+
+- @font-face
+  {
+  font-family: sansation;
+  src: url('sansation_light.woff');
+  }
+
+- font-weight: bold;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+33- CSS 2D Transforms:
+
+- transform: translate(100px, 200px);
+- transform: rotate(45deg);
+- transform: scale(0.5, 2);
+- transform: skew(20deg, 30deg);
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+34- CSS 3D Transforms:
+
+- transform: rotateX(150deg);
+- transform: rotateY(120deg);
+- transform: rotateZ(90deg);
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+35- CSS Transitions:
+
+- transition: width 2s;
+- transition-timing-function: ease-in-out;
+- transition-delay: 0.5s;
+- transition: background 2s, transform 2s;
+- transition: width 2s ease-in-out 0.5s;
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+36- CSS Animation:
+
+- div{
+  animation-name: example;
+  animation-duration: 2s;
+  }
+  @keyframes example {
+  from {background-color: red;}
+  to {background-color: blue;}
+  }
+
+- @keyframes example {
+  0%   {left:0px; top:0px;}
+  25%  {left:0px; top:200px;}
+  50%  {left:200px; top:200px;}
+  75%  {left:200px; top:0px;}
+  100% {left:0px; top:0px;}
+  }
+
+- animation-delay: 1s;
+- animation-iteration-count: infinite;
+- animation-direction: alternate;
+- animation-timing-function: ease-in-out;
