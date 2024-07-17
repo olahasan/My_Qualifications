@@ -1,4 +1,4 @@
-====>>>> https://codepen.io/olahasan/pen/NWYJqGQ
+====>>>> https://codepen.io/olahasan/pen/NWYJqGQ?editors=0010
 ====>>>>­­ https://elzero.org/javascript-2021-switch-and-if-condition-challenge/
 
 
