@@ -1,6 +1,5 @@
-====>>>> 
-====>>>>­­
-
+====>>>> https://codepen.io/olahasan/pen/XWEQrgp?editors=1010
+====>>>>­­ https://elzero.org/javascript-bootcamp-assignments-lesson-from-147-to-158/
 
 //first question
 
@@ -117,5 +116,47 @@ console.log(userOne.c); // Prevent Accessing To Card Property Here
 
 ////////////////////////////////////////////////////////////////////////////////­­­­
 fourth question
+
+// Write Your Code Here
+String.prototype.addLove = function () {
+  return `I Love ${this} Web School`;
+};
+// Do Not Edit Below
+let myStr = "Elzero";
+console.log(myStr.addLove()); // I Love Elzero Web School
+
 ////////////////////////////////////////////////////////////////////////////////
 fifth question
+
+const myObj = {
+  username: "Elzero",
+  id: 100,
+  score: 1000,
+  country: "Egypt",
+};
+
+// Write Your Code Here
+Object.defineProperties(myObj, {
+  score: {
+    writable: false,
+  },
+  id: {
+    enumerable: false,
+  },
+});
+
+delete myObj.country;
+
+myObj.score = 500;
+
+for (let prop in myObj) {
+  console.log(`${prop} => ${myObj[prop]}`);
+}
+
+console.log(myObj);
+
+// Needed Output
+
+// "username => Elzero"
+// "score => 1000"
+// {username: 'Elzero', score: 1000, id: 100}
