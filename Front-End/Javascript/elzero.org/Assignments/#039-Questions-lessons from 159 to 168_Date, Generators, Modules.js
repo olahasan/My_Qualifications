@@ -90,7 +90,7 @@ let start = new Date();
 
 //start operation
 for (let i = 0; i < 99999; i++) {
-  // document.write(`<div>${i}</div>`);
+  document.write(`<div>${i}</div>`);
 }
 
 //end time
@@ -107,7 +107,7 @@ let start = performance.now();
 
 // Start operation
 for (let i = 0; i < 99999; i++) {
-  // document.write(`<div>${i}</div>`);
+  document.write(`<div>${i}</div>`);
 }
 
 // End time
@@ -116,3 +116,32 @@ let end = performance.now();
 // Operation duration
 let duration = end - start;
 console.log(duration); // Output the duration in milliseconds
+
+////////////////////////////////////////////////////////////////////////////////
+
+//sixth question
+
+// Write Your Generator Function Here
+
+function* gen() {
+  while (true) {
+    yield Math.floor(Math.random() * 10000);
+  }
+}
+
+let generator = gen();
+
+console.log(generator.next()); // {value: 14, done: false}
+console.log(generator.next()); // {value: 154, done: false}
+console.log(generator.next()); // {value: 494, done: false}
+console.log(generator.next()); // {value: 1034, done: false}
+console.log(generator.next()); // {value: 1774, done: false}
+console.log(generator.next()); // {value: 2714, done: false}
+console.log(generator.next()); // {value: 3854, done: false}
+console.log(generator.next()); // {value: 5194, done: false}
+console.log(generator.next()); // {value: 6734, done: false}
+
+////////////////////////////////////////////////////////////////////////////////
+
+//seventh question
+
