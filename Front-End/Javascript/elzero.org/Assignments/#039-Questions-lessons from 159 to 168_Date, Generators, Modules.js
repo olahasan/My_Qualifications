@@ -145,3 +145,65 @@ console.log(generator.next()); // {value: 6734, done: false}
 
 //seventh question
 
+function* genNumbers() {
+  yield* [1, 2, 2, 2, 3, 4, 5];
+}
+function* genLetters() {
+  yield* ["A", "B", "B", "B", "C", "D"];
+}
+
+// Write Your Generator Function Here
+
+function* genAll() {
+  yield* new Set([...genNumbers(), ...genLetters()]);
+}
+
+let generator = genAll();
+
+console.log(generator.next()); // {value: 1, done: false}
+console.log(generator.next()); // {value: 2, done: false}
+console.log(generator.next()); // {value: 3, done: false}
+console.log(generator.next()); // {value: 4, done: false}
+console.log(generator.next()); // {value: 5, done: false}
+console.log(generator.next()); // {value: "A", done: false}
+console.log(generator.next()); // {value: "B", done: false}
+console.log(generator.next()); // {value: "C", done: false}
+console.log(generator.next()); // {value: "D", done: false}
+
+////////////////////////////////////////////////////////////////////////////////
+
+//eighth question
+
+// html
+
+  <body>
+    <script src="main.js" type="module"></script>
+    <script src="mod-one.js" type="module"></script>
+    <script src="mod-two.js" type="module"></script>
+  </body>
+///////////////////////////////////////////////////////////
+//main.js
+
+import calc from "./mod-one.js";
+// import * as all from "./mod-two.js";
+import * as modOne from "./mod-two.js";
+
+console.log(calc(modOne.numOne, modOne.numTwo, modOne.numThree)); // 60
+
+///////////////////////////////////////////////////////////
+//mode-one.js
+
+export default function (a, b, c) {
+  return a + b + c;
+}
+
+///////////////////////////////////////////////////////////
+//mode-two.js
+
+let a = 10; // Do Not Edit Names
+let b = 20; // Do Not Edit Names
+let c = 30; // Do Not Edit Names
+
+export { a as numOne, b as numTwo, c as numThree };
+
+
