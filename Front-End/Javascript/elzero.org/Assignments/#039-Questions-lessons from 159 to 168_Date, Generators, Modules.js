@@ -65,7 +65,54 @@ console.log(
     Months[dateNow.getMonth(7)]
   } And Last Day Is ${dateNow.getDate(0)}`
 );
+
 ////////////////////////////////////////////////////////////////////////////////­­­­
+
 //fourth question
+
+let birthDay1 = new Date("apr 22, 1995");
+console.log(birthDay1);
+
+let birthday2 = new Date("1995-04-22T00:00:00");
+console.log(birthday2);
+
+let birthday3 = new Date(Date.UTC(1995, 3, 22, 0, 0, 0));
+console.log(birthday3);
+
 ////////////////////////////////////////////////////////////////////////////////
+
 //fifth question
+
+////////// first way //////////
+
+//start time
+let start = new Date();
+
+//start operation
+for (let i = 0; i < 99999; i++) {
+  // document.write(`<div>${i}</div>`);
+}
+
+//end time
+let end = new Date();
+
+//operation duration
+
+let duration = end - start;
+console.log(duration);
+
+////////// second way  using Performance.now() //////////
+// Start time
+let start = performance.now();
+
+// Start operation
+for (let i = 0; i < 99999; i++) {
+  // document.write(`<div>${i}</div>`);
+}
+
+// End time
+let end = performance.now();
+
+// Operation duration
+let duration = end - start;
+console.log(duration); // Output the duration in milliseconds
