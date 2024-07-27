@@ -165,7 +165,7 @@ getData("articles.JSON")
   }
 ]
 //////////////////////////////////////////////////////
-//this is main.js file using Promise
+//this is main.js file using fetch
 
 
 function getData(apiLink) {
