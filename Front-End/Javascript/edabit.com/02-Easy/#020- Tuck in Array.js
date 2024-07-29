@@ -12,7 +12,7 @@ function tuckIn(arr1, arr2) {
 ////////////////////////////////////////////////////////////
 //or
 function tuckIn(arr1, arr2) {
-   arr1.splice(arr1.length / 2, 0, arr2);
+   arr1.splice(arr1.length / 2, 0, ...arr2);
   return arr1;
 }
 
