@@ -1,5 +1,6 @@
 function sortByLength(arr) {
-  return arr.sort((a, b) => a.length - b.length);
+  return arr.sort((current, next) => current.length - next.length);
+  //return arr.sort((a, b) => a.length - b.length);
 }
 
 console.log(sortByLength(["a", "ccc", "dddd", "bb"])); //➞ ["a", "bb", "ccc", "dddd"]
