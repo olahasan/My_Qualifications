@@ -1,5 +1,6 @@
 function shouldServeDrinks(age, onBreak) {
-  return onBreak === true ? false : age > 18 ? true : false;
+  // return onBreak === true ? false : age >= 18 ? true : false;
+  return age >= 18 && !onBreak;
 }
 
 console.log(shouldServeDrinks(17, true)); //➞ false
