@@ -76,7 +76,7 @@ Otherwise, all links will open in the same tab.
 
 2-6- **Huddle landing page with curved sections**
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Huddle-landing-page-with-curved-sections" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Huddle-landing-page-with-curved-sections/" target="_blank">Live Site URL</a>
 
 
 
