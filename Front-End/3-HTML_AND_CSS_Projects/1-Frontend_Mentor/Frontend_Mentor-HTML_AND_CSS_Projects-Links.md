@@ -70,12 +70,12 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_-JUNIOR-Huddle-landing-page-with-alternating-feature-blocks" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_-JUNIOR-Huddle-landing-page-with-alternating-feature-blocks/" target="_blank">Live Site URL</a>
 
-2-5- ****
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+2-5- **Fylo landing page with two column layout**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Fylo-landing-page-with-two-column-layout" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Fylo-landing-page-with-two-column-layout/" target="_blank">Live Site URL</a>
 
-2-1- ****
-- <a href="" target="_blank">github Solution URL</a>
+2-6- **Huddle landing page with curved sections**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Huddle-landing-page-with-curved-sections" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
 
