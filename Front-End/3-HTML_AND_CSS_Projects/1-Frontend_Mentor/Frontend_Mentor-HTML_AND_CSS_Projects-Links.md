@@ -26,6 +26,25 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-very-easy-Stats-preview-card-component" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-very-easy-Stats-preview-card-component/" target="_blank">Live Site URL</a>
 
+1-6- **3-column preview card component**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-very-easy-3-column-preview-card-component" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-very-easy-3-column-preview-card-component/" target="_blank">Live Site URL</a>
+
+1-7- ****
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+1-8- ****
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+1-9- ****
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+1-10- ****
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
 
 
 1-1- ****
