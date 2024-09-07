@@ -46,6 +46,11 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Single-Price-Grid-Component" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Single-Price-Grid-Component/" target="_blank">Live Site URL</a>
 
+1-11- **Huddle landing page with a single introductory section**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Huddle-landing-page-with-single-introductory-section" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Huddle-landing-page-with-single-introductory-section/" target="_blank">Live Site URL</a>
+
+
 
 1-1- ****
 - <a href="" target="_blank">github Solution URL</a>
