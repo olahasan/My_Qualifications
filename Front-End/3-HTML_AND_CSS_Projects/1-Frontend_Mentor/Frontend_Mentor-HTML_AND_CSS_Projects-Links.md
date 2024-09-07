@@ -30,9 +30,9 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-very-easy-3-column-preview-card-component" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-very-easy-3-column-preview-card-component/" target="_blank">Live Site URL</a>
 
-1-7- ****
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+1-7- **Profile card component**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-very-easy-Profile-card-component" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-very-easy-Profile-card-component/" target="_blank">Live Site URL</a>
 
 1-8- ****
 - <a href="" target="_blank">github Solution URL</a>
