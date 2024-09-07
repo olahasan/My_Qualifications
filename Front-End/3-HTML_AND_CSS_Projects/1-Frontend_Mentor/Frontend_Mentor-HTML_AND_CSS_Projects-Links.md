@@ -14,11 +14,15 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Product-preview-card-component" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Product-preview-card-component/" target="_blank">Live Site URL</a>
 
+1-3- **NFT preview card component**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-very-easy-NFT-preview-card-component" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-very-easy-NFT-preview-card-component/" target="_blank">Live Site URL</a>
 
 
 
 
 
+1-1- ****
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
