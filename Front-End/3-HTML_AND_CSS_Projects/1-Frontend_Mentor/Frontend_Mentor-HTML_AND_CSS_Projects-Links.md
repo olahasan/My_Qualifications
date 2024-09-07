@@ -66,9 +66,9 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Clipboard-landing-page" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Clipboard-landing-page/" target="_blank">Live Site URL</a>
 
-2-4- ****
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+2-4- **Huddle landing page with alternating feature blocks**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_-JUNIOR-Huddle-landing-page-with-alternating-feature-blocks" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_-JUNIOR-Huddle-landing-page-with-alternating-feature-blocks/" target="_blank">Live Site URL</a>
 
 2-5- ****
 - <a href="" target="_blank">github Solution URL</a>
