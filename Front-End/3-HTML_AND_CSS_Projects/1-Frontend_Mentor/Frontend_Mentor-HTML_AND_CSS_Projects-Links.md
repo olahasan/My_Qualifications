@@ -38,9 +38,9 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-NEWBIE-Social-proof-section" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-NEWBIE-Social-proof-section/" target="_blank">Live Site URL</a>
 
-1-9- ****
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+1-9- **Four card feature section**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Four-card-feature-section" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Four-card-feature-section/" target="_blank">Live Site URL</a>
 
 1-10- ****
 - <a href="" target="_blank">github Solution URL</a>
