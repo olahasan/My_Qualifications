@@ -7,7 +7,7 @@ Otherwise, all links will open in the same tab.
 
 # HTML&CSS Projects:
 
-### 1- Html_And_Css_Template_One
+## 1- Html_And_Css_Template_One
 
 - <a href="https://github.com/olahasan/Html_And_Css_Template_One_1" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/Html_And_Css_Template_One_1/" target="_blank">Live Site URL</a>
