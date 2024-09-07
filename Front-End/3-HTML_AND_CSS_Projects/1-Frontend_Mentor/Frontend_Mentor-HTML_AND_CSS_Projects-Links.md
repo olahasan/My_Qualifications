@@ -5,7 +5,7 @@ If you want to open the link in a new tab, you can:
 Otherwise, all links will open in the same tab.
 
 
-### 1- Frontend_Mentor  HTML&CSS  Newbie:
+### 1- Frontend_Mentor,HTML&CSS,Newbie:
 1-1- **Recipe page**
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Recipe-page" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Recipe-page/" target="_blank">Live Site URL</a>
@@ -22,6 +22,9 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-very-easy-Order-summary-card" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-very-easy-Order-summary-card/" target="_blank">Live Site URL</a>
 
+1-5- **Stats preview card component**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-very-easy-Stats-preview-card-component" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-very-easy-Stats-preview-card-component/" target="_blank">Live Site URL</a>
 
 
 
