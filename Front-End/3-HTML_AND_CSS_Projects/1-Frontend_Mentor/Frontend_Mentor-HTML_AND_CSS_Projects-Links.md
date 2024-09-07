@@ -6,7 +6,7 @@
 
 
 
-
+<a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Recipe-page" target="_blank">GitHub Repository</a>
 
 [link text](https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Recipe-page)
 
