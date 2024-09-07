@@ -58,19 +58,19 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Testimonials-grid-section" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Testimonials-grid-section/" target="_blank">Live Site URL</a>
 
-2-1- **Fylo data storage component**
+2-2- **Fylo data storage component**
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Fylo-data-storage-component" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Fylo-data-storage-component/" target="_blank">Live Site URL</a>
 
-2-1- ****
+2-3- **Clipboard landing page**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Clipboard-landing-page" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Clipboard-landing-page/" target="_blank">Live Site URL</a>
+
+2-4- ****
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
-2-1- ****
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
-
-2-1- ****
+2-5- ****
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
