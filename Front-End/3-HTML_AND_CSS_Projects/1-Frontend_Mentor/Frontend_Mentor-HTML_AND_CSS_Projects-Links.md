@@ -18,6 +18,9 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-very-easy-NFT-preview-card-component" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-very-easy-NFT-preview-card-component/" target="_blank">Live Site URL</a>
 
+1-4- **Order summary component**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor-very-easy-Order-summary-card" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor-very-easy-Order-summary-card/" target="_blank">Live Site URL</a>
 
 
 
