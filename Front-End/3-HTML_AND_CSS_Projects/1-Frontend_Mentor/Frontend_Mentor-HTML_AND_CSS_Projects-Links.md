@@ -5,7 +5,8 @@ If you want to open the link in a new tab, you can:
 Otherwise, all links will open in the same tab.
 
 
-### 1- Frontend_Mentor,HTML&CSS,Newbie:
+# 1- Frontend_Mentor,HTML&CSS,Newbie:
+
 1-1- **Recipe page**
 - <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Recipe-page" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Recipe-page/" target="_blank">Live Site URL</a>
@@ -51,8 +52,35 @@ Otherwise, all links will open in the same tab.
 - <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_NEWBIE-Huddle-landing-page-with-single-introductory-section/" target="_blank">Live Site URL</a>
 
 
+# 2- Frontend_Mentor,HTML&CSS,Junior:
 
-1-1- ****
+2-1- **Testimonials grid section**
+- <a href="https://github.com/olahasan/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Testimonials-grid-section" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_AND_CSS_Frontend-Mentor_JUNIOR-Testimonials-grid-section/" target="_blank">Live Site URL</a>
+
+2-1- ****
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+2-1- ****
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+2-1- ****
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+2-1- ****
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+2-1- ****
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+
+
+2-1- ****
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
