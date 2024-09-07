@@ -5,7 +5,7 @@ If you want to open the link in a new tab, you can:
 
 Otherwise, all links will open in the same tab.
 
-# Frontend_Mentor,HTML&CSS,Newbie:
+# HTML&CSS Projects:
 
 ## 1- Html_And_Css_Template_One
 
