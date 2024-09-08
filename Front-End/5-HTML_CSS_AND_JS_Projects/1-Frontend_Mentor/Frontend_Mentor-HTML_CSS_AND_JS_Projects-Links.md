@@ -84,14 +84,20 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Pricing-component-with-toggle" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Pricing-component-with-toggle/" target="_blank">Live Site URL</a>
 
-2-10- **na**
+
+# 3- Frontend_Mentor,HTML_CSS_JS,Intermediate:
+
+3-1- **E-commerce product page**
+
+- <a href="https://github.com/olahasan/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-E-commerce-product-page" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-E-commerce-product-page/" target="_blank">Live Site URL</a>
+
+3-2- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
-# 3- Frontend_Mentor,HTML_CSS_JS,Intermediate:
-
-3-1- **na**
+3-3- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
