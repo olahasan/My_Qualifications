@@ -7,10 +7,10 @@ Otherwise, all links will open in the same tab.
 
 # 1- Frontend_Mentor,HTML_CSS_JS,Newbie:
 
-1-1- **na**
+1-1- **FAQ accordion**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-FAQ-Accordion-Card" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-FAQ-Accordion-Card/" target="_blank">Live Site URL</a>
 
 # 2- Frontend_Mentor,HTML_CSS_JS,Junior:
 
