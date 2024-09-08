@@ -39,6 +39,42 @@ Otherwise, all links will open in the same tab.
 
 # 2- Frontend_Mentor,HTML_CSS_JS,Junior:
 
+2-1- **Notifications page**
+
+- <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Notifications-page" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Notifications-page/" target="_blank">Live Site URL</a>
+2-1- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+2-1- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+2-1- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+2-1- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+2-1- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+2-1- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+2-1- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+2-1- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
 2-1- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
