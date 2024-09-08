@@ -17,19 +17,22 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Interactive-rating-component" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Interactive-rating-component/" target="_blank">Live Site URL</a>
 
-1-2- **na**
+1-3- **Article preview component**
+
+- <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Article-preview-component" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Article-preview-component/" target="_blank">Live Site URL</a>
+
+1-4- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
-1-2- **na**
+
+1-5- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
-1-2- **na**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
-1-2- **na**
+1-6- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
