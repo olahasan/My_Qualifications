@@ -92,10 +92,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-E-commerce-product-page" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-E-commerce-product-page/" target="_blank">Live Site URL</a>
 
-3-2- **na**
+3-2- **Calculator app**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-Calculator-app" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-Calculator-app/" target="_blank">Live Site URL</a>
 
 3-3- **na**
 
