@@ -12,6 +12,28 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-FAQ-Accordion-Card" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-FAQ-Accordion-Card/" target="_blank">Live Site URL</a>
 
+1-2- **Interactive rating component**
+
+- <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Interactive-rating-component" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Interactive-rating-component/" target="_blank">Live Site URL</a>
+
+1-2- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+1-2- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+1-2- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+1-2- **na**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
 # 2- Frontend_Mentor,HTML_CSS_JS,Junior:
 
 2-1- **na**
