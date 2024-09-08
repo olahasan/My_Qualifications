@@ -97,7 +97,7 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-Calculator-app" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-Calculator-app/" target="_blank">Live Site URL</a>
 
-3-3- **na**
+3-3- **Todo app**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-Todo-app" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_JS_Frontend-Mentor_INTERMEDIATE-Todo-app/" target="_blank">Live Site URL</a>
