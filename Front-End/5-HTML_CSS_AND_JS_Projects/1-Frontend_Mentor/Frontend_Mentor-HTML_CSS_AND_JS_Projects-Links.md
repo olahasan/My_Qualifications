@@ -79,10 +79,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Social-media-dashboard-with-theme-switcher" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Social-media-dashboard-with-theme-switcher/" target="_blank">Live Site URL</a>
 
-2-9- **na**
+2-9- **Pricing component with toggle**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Pricing-component-with-toggle" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Pricing-component-with-toggle/" target="_blank">Live Site URL</a>
 
 2-10- **na**
 
