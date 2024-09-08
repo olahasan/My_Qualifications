@@ -5,23 +5,18 @@ If you want to open the link in a new tab, you can:
 
 Otherwise, all links will open in the same tab.
 
-# 1- Frontend_Mentor,HTML_CSS_JS,Newbie:
+# HTML,CSS & JS Projects:
 
-1-1- **na**
+**1- To-Do-List_Application_With_Local-Storage**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/To-Do-List_Application_With_Local-Storage" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/To-Do-List_Application_With_Local-Storage/" target="_blank">Live Site URL</a>
 
-# 2- Frontend_Mentor,HTML_CSS_JS,Junior:
-
-2-1- **na**
+**2-**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
-# 3- Frontend_Mentor,HTML_CSS_JS,Intermediate:
-
-3-1- **na**
-
+**3-**
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
