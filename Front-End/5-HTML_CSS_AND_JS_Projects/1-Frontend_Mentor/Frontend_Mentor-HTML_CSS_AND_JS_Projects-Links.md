@@ -59,10 +59,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend_Mentor_JUNIOR-Time-tracking-dashboard" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend_Mentor_JUNIOR-Time-tracking-dashboard/" target="_blank">Live Site URL</a>
 
-2-5- **na**
+2-5- **Tip calculator app**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/HTML_CSS_AND_j.s_Frontend-Mentor_JUNIOR-Tip-calculator-app" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_j.s_Frontend-Mentor_JUNIOR-Tip-calculator-app/" target="_blank">Live Site URL</a>
 
 2-1- **na**
 
