@@ -49,10 +49,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Interactive-card-details-form" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Interactive-card-details-form/" target="_blank">Live Site URL</a>
 
-2-3- **na**
+2-3- **Intro section with dropdown navigation**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_frontend-mentor_JUNIOR_intro-section-with-dropdown-navigation-main" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_frontend-mentor_JUNIOR_intro-section-with-dropdown-navigation-main/" target="_blank">Live Site URL</a>
 
 2-4- **na**
 
