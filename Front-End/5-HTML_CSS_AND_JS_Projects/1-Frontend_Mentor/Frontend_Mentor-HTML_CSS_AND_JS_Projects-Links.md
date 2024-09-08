@@ -64,27 +64,27 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_j.s_Frontend-Mentor_JUNIOR-Tip-calculator-app" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_j.s_Frontend-Mentor_JUNIOR-Tip-calculator-app/" target="_blank">Live Site URL</a>
 
-2-1- **na**
+2-6- **Crowdfunding product page**
+
+- <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Crowdfunding-product-page" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_JUNIOR-Crowdfunding-product-page/" target="_blank">Live Site URL</a>
+
+2-7- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
-2-1- **na**
+2-8- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
-2-1- **na**
+2-9- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
-2-1- **na**
-
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
-
-2-1- **na**
+2-10- **na**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
