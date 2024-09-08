@@ -32,10 +32,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Intro-component-with-sign-up-form" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Intro-component-with-sign-up-form/" target="_blank">Live Site URL</a>
 
-1-6- **na**
+1-6- **Ping single column coming soon page**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Ping-coming-soon-page" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_AND_J.S_Frontend-Mentor_NEWBIE-Ping-coming-soon-page/" target="_blank">Live Site URL</a>
 
 # 2- Frontend_Mentor,HTML_CSS_JS,Junior:
 
