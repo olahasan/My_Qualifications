@@ -25,9 +25,9 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/currency-converter_API" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/currency-converter_API/" target="_blank">Live Site URL</a>
 
-**5-**
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+**5- Fetch_Github_Repositories**
+- <a href="https://github.com/olahasan/Fetch_Github_Repositories" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/Fetch_Github_Repositories/" target="_blank">Live Site URL</a>
 
 **6-**
 - <a href="" target="_blank">github Solution URL</a>
