@@ -29,6 +29,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/Fetch_Github_Repositories" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/Fetch_Github_Repositories/" target="_blank">Live Site URL</a>
 
-**6-**
+**6- quiz-application**
+- <a href="https://github.com/olahasan/quiz-application" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/quiz-application/" target="_blank">Live Site URL</a>
+
+**7-**
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
