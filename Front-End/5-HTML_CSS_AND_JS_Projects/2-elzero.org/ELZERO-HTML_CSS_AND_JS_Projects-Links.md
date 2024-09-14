@@ -33,6 +33,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/quiz-application" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/quiz-application/" target="_blank">Live Site URL</a>
 
-**7-**
+**7- Hangman-Game**
+- <a href="https://github.com/olahasan/Hangman-Game/tree/main" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/Hangman-Game/" target="_blank">Live Site URL</a>
+
+**8-**
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
