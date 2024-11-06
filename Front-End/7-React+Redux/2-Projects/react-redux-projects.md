@@ -8,10 +8,10 @@ Otherwise, all links will open in the same tab.
 
 # ReactJs [class-components] Projects:
 
-**1- To-Do-List_Application_With_Local-Storage**
+**1- Simple To-Do-List**
 
-- <a href="https://github.com/olahasan/To-Do-List_Application_With_Local-Storage" target="_blank">github Solution URL</a>
-- <a href="https://olahasan.github.io/To-Do-List_Application_With_Local-Storage/" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/Todo-List-_React-Project_class-component" target="_blank">github Solution URL</a>
+- <a href="https://simple-todo-list-app-classes.surge.sh/" target="_blank">Live Site URL</a>
 
 **2- Typing Speed Test Game**
 
