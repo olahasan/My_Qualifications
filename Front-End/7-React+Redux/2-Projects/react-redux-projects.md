@@ -28,10 +28,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/Create-React-Template_class-components" target="_blank">github Solution URL</a>
 - <a href="https://create-react-template-class-component.netlify.app/" target="_blank">Live Site URL</a>
 
-**5- Create-React-Template_class-components**
+**5- Counter-React-Redux-mapStateToProps-mapdispatchtoprops-Class-component**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/Counter-React-Redux-mapStateToProps-mapdispatchtoprops--Class-component" target="_blank">github Solution URL</a>
+- <a href="https://statuesque-alfajores-174b5f.netlify.app/" target="_blank">Live Site URL</a>
 
 **6- Create-React-Template_class-components**
 
