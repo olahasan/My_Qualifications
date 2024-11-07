@@ -13,10 +13,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/Todo-List-_React-Project_class-component" target="_blank">github Solution URL</a>
 - <a href="https://simple-todo-list-app-classes.surge.sh/" target="_blank">Live Site URL</a>
 
-**2- Typing Speed Test Game**
+**2- CRUD_React-Project_Class-Component**
 
-- <a href="https://github.com/olahasan/Typing-Speed-Test-Game/tree/main" target="_blank">github Solution URL</a>
-- <a href="https://olahasan.github.io/Typing-Speed-Test-Game/" target="_blank">Live Site URL</a>
+- <a href="CRUD_React-Project_Class-Component" target="_blank">github Solution URL</a>
+- <a href="https://simple-crud-react-classes.surge.sh/" target="_blank">Live Site URL</a>
 
 **3- Memory Blocks Game**
 - <a href="https://github.com/olahasan/html-css-js_Memory-Blocks-Game" target="_blank">github Solution URL</a>
