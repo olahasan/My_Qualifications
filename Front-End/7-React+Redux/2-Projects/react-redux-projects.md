@@ -33,12 +33,12 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/Counter-React-Redux-mapStateToProps-mapdispatchtoprops--Class-component" target="_blank">github Solution URL</a>
 - <a href="https://statuesque-alfajores-174b5f.netlify.app/" target="_blank">Live Site URL</a>
 
-**6- Create-React-Template_class-components**
+**6- reminder-app-react-old-redux[mapStateToProps, mapdispatchtoprops]-Class-component**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/reminder-app-react-old-redux-mapStateToProps-mapdispatchtoprops--Class-component" target="_blank">github Solution URL</a>
+- <a href="https://reminder-app-react-old-redux.surge.sh/" target="_blank">Live Site URL</a>
 
-**7- Create-React-Template_class-components**
+**7- C**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
