@@ -23,5 +23,25 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/weather-app-api_React-Project_Class-Component/tree/main" target="_blank">github Solution URL</a>
 - <a href="https://weather-app-classes.surge.sh/" target="_blank">Live Site URL</a>
 
+**4- Create-React-Template_class-components**
+
+- <a href="https://github.com/olahasan/Create-React-Template_class-components" target="_blank">github Solution URL</a>
+- <a href="https://create-react-template-class-component.netlify.app/" target="_blank">Live Site URL</a>
+
+**5- Create-React-Template_class-components**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+**6- Create-React-Template_class-components**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+**7- Create-React-Template_class-components**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
 
 # ReactJs [Hooks] Projects:
