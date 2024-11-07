@@ -18,8 +18,9 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/CRUD_React-Project_Class-Component" target="_blank">github Solution URL</a>
 - <a href="https://simple-crud-react-classes.surge.sh/" target="_blank">Live Site URL</a>
 
-**3- Memory Blocks Game**
-- <a href="weather-app-api_React-Project_Class-Component" target="_blank">github Solution URL</a>
+**3- weather-app-api_React-Project_Class-Component**
+
+- <a href="https://github.com/olahasan/weather-app-api_React-Project_Class-Component/tree/main" target="_blank">github Solution URL</a>
 - <a href="https://weather-app-classes.surge.sh/" target="_blank">Live Site URL</a>
 
 
