@@ -15,7 +15,7 @@ Otherwise, all links will open in the same tab.
 
 **2- CRUD_React-Project_Class-Component**
 
-- <a href="CRUD_React-Project_Class-Component" target="_blank">github Solution URL</a>
+- <a href="https://github.com/olahasan/CRUD_React-Project_Class-Component" target="_blank">github Solution URL</a>
 - <a href="https://simple-crud-react-classes.surge.sh/" target="_blank">Live Site URL</a>
 
 **3- Memory Blocks Game**
