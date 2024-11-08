@@ -45,17 +45,22 @@ OR HERE
 - <a href="https://github.com/olahasan/Counter-Redux-useSelector-useDispatch--Hooks/tree/main" target="_blank">github Solution URL</a>
 - <a href="https://counter-redux-useselector-usedispatch.netlify.app/" target="_blank">Live Site URL</a>
 
-**7- counter-redux_useselector-usedispatch_react-hooks-add-minus-ad_by_value**
+**8- counter-redux_useselector-usedispatch_react-hooks-add-minus-ad_by_value**
 
 - <a href="https://github.com/olahasan/counter-redux_useselector-usedispatch_react-hooks-add-minus-ad_by_value/tree/main" target="_blank">github Solution URL</a>
 - <a href="https://counter-redux-add-minus-add-by-value.netlify.app/" target="_blank">Live Site URL</a>
 
-**7- coue**
+**9- counter-redux-thunk-hoooks_add_minus_add-by-value**
+
+- <a href="https://github.com/olahasan/redux-thunk-hoooks_add_minus_add-by-value" target="_blank">github Solution URL</a>
+- <a href="https://redux-thunk-hoooks.netlify.app/" target="_blank">Live Site URL</a>
+
+**10- co**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
 
-**7- co**
+**11- co**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
