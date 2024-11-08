@@ -36,7 +36,8 @@ Otherwise, all links will open in the same tab.
 **6- reminder-app-react-old-redux[mapStateToProps, mapdispatchtoprops]-Class-component**
 
 - <a href="https://github.com/olahasan/reminder-app-react-old-redux-mapStateToProps-mapdispatchtoprops--Class-component" target="_blank">github Solution URL</a>
-- <a href="https://reminder-app-react-old-redux.surge.sh/" target="_blank">Live Site URL</a> OR HERE
+- <a href="https://reminder-app-react-old-redux.surge.sh/" target="_blank">Live Site URL</a>
+OR HERE
 - <a href="https://reminder-app-react-old-redux.netlify.app/" target="_blank">Live Site URL</a> 
 
 **7- Counter-Redux-useSelector-useDispatch--Hooks**
