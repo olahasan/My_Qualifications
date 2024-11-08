@@ -8,7 +8,7 @@ Otherwise, all links will open in the same tab.
 
 # ReactJs [class-components] Projects:
 
-**1- Simple To-Do-List**
+**1- Simple To-Do-List_Class-Component**
 
 - <a href="https://github.com/olahasan/Todo-List-_React-Project_class-component" target="_blank">github Solution URL</a>
 - <a href="https://simple-todo-list-app-classes.surge.sh/" target="_blank">Live Site URL</a>
@@ -38,10 +38,21 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/reminder-app-react-old-redux-mapStateToProps-mapdispatchtoprops--Class-component" target="_blank">github Solution URL</a>
 - <a href="https://reminder-app-react-old-redux.surge.sh/" target="_blank">Live Site URL</a>
 
-**7- C**
+**7- Counter-Redux-useSelector-useDispatch--Hooks**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/Counter-Redux-useSelector-useDispatch--Hooks/tree/main" target="_blank">github Solution URL</a>
+- <a href="https://counter-redux-useselector-usedispatch.netlify.app/" target="_blank">Live Site URL</a>
+
+**7- Co**
+
+- <a href="https://github.com/olahasan/Counter-Redux-useSelector-useDispatch--Hooks/tree/main" target="_blank">github Solution URL</a>
+- <a href="https://counter-redux-useselector-usedispatch.netlify.app/" target="_blank">Live Site URL</a>
+
+**7- Co**
+
+- <a href="https://github.com/olahasan/Counter-Redux-useSelector-useDispatch--Hooks/tree/main" target="_blank">github Solution URL</a>
+- <a href="https://counter-redux-useselector-usedispatch.netlify.app/" target="_blank">Live Site URL</a>
+
 
 
 # ReactJs [Hooks] Projects:
