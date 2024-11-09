@@ -62,6 +62,11 @@ OR HERE
 or
 - <a href="https://counter-redux-toolkit-hooks-add-minus-add-by-value.surge.sh/" target="_blank">Live Site URL</a>
 
+**11- react-simple-challange-one-tarmez**
+
+- <a href="https://github.com/olahasan/react-simple-challange-one-tarmez" target="_blank">github Solution URL</a>
+- <a href="https://simple-challange-one-tarmez.netlify.app/" target="_blank">Live Site URL</a>
+
 **11- co**
 
 - <a href="" target="_blank">github Solution URL</a>
