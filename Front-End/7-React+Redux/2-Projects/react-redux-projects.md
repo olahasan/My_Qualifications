@@ -72,6 +72,11 @@ or
 - <a href="https://github.com/olahasan/react-simple-challange-two-form-validation-tarmez?tab=readme-ov-file" target="_blank">github Solution URL</a>
 - <a href="https://react-challange-two-form-validation.netlify.app/" target="_blank">Live Site URL</a>
 
+**13- prayers-timings-react-hooks-tarmez**
+
+- <a href="https://github.com/olahasan/prayers-timings-react-hooks-tarmez" target="_blank">github Solution URL</a>
+- <a href="https://prayers-timings-react-hooks-tarmez.netlify.app/" target="_blank">Live Site URL</a>
+
 **13- co**
 
 - <a href="" target="_blank">github Solution URL</a>
