@@ -80,12 +80,13 @@ or
 **14- form-validation-without-formik-iti**
 
 - <a href="https://github.com/olahasan/form-validation-without-formik-iti" target="_blank">github Solution URL</a>
-- <a href="form-validation-without-formik-iti.netlify.app" target="_blank">Live Site URL</a>
+- <a href="https://form-validation-without-formik-iti.netlify.app/" target="_blank">Live Site URL</a>
 
 **13- co**
 
 - <a href="" target="_blank">github Solution URL</a>
 - <a href="" target="_blank">Live Site URL</a>
+
 **13- co**
 
 - <a href="" target="_blank">github Solution URL</a>
