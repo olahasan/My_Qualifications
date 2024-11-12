@@ -18,6 +18,16 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/small-template-project-bootstrap-5-iti" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/small-template-project-bootstrap-5-iti/" target="_blank">Live Site URL</a>
 
+**3- Simple-Layout-Bootstrap-5-iti**
+
+- <a href="https://github.com/olahasan/Simple-Layout-Bootstrap-5-iti" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/Simple-Layout-Bootstrap-5-iti/" target="_blank">Live Site URL</a>
+
+**1- **
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
 **1- **
 
 - <a href="" target="_blank">github Solution URL</a>
