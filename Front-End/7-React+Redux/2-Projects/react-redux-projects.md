@@ -92,6 +92,16 @@ or
 - <a href="https://github.com/olahasan/CRUD_React-Project_Hooks-localstorage/tree/main" target="_blank">github Solution URL</a>
 - <a href="https://add-itiem-crud-hooks-localstorage.netlify.app/" target="_blank">Live Site URL</a>
 
+**17- uncompleted-Todo-List-for-trying**
+
+- <a href="https://github.com/olahasan/uncompleted-Todo-List-for-trying" target="_blank">github Solution URL</a>
+- <a href="https://btangannnnn-app-v222.netlify.app/" target="_blank">Live Site URL</a>
+
+**18- uncompleted-Todo-List-for-trying-learning**
+
+- <a href="https://github.com/olahasan/uncompleted-Todo-List-for-trying-learning" target="_blank">github Solution URL</a>
+- <a href="https://btangannnnn-app-v222.netlify.app/" target="_blank">Live Site URL</a>
+
 **13- co**
 
 - <a href="" target="_blank">github Solution URL</a>
