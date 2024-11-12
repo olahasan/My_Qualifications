@@ -13,10 +13,10 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/Bondi-bootstrap-5-project" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/Bondi-bootstrap-5-project/" target="_blank">Live Site URL</a>
 
-**1- **
+**2- small-template-project-bootstrap-5-iti**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/small-template-project-bootstrap-5-iti" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/small-template-project-bootstrap-5-iti/" target="_blank">Live Site URL</a>
 
 **1- **
 
