@@ -104,10 +104,12 @@ or
 OR
 - <a href="https://btangannnnn-app-v222.netlify.app/" target="_blank">Live Site URL</a>
 
-**13- co**
+**19- someCode-forLearning-react-iti**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/someCode-forLearning-react-iti?tab=readme-ov-file" target="_blank">github Solution URL</a>
+- <a href="https://somecode-forlearning-react-iti.surge.sh/" target="_blank">Live Site URL</a>
+OR
+- <a href="https://somecode-forlearning-react-iti.netlify.app/" target="_blank">Live Site URL</a>
 
 **13- co**
 
