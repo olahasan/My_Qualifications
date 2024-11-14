@@ -139,6 +139,23 @@ OR
 OR
 - <a href="https://multiple-filter-react-kimz-ola.netlify.app/" target="_blank">Live Site URL</a>
 
+**24- CRUD_Redux-Toolkit-hamza**
+
+- <a href="https://github.com/olahasan/CRUD_Redux-Toolkit-hamza?tab=readme-ov-file" target="_blank">github Solution URL</a>
+- <a href="https://crud-redux-toolkit-hamza.surge.sh/" target="_blank">Live Site URL</a>
+OR
+- <a href="https://crud-redux-toolkit-hamza.netlify.app/" target="_blank">Live Site URL</a>
+
+**13- co**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+**13- co**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
 **13- co**
 
 - <a href="" target="_blank">github Solution URL</a>
