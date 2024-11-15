@@ -160,6 +160,21 @@ OR
 OR
 - <a href="https://redux-classcomponent-iti.netlify.app/" target="_blank">Live Site URL</a>
 
+**27- redux-thunk-useSelector-useDispatch-hooks-iti**
+
+- <a href="https://github.com/olahasan/redux-thunk-useSelector-useDispatch-hooks-iti" target="_blank">github Solution URL</a>
+- <a href="https://redux-thunk-hooks-iti.surge.sh/" target="_blank">Live Site URL</a>
+OR
+- <a href="https://redux-thunk-hooks-iti.netlify.app/" target="_blank">Live Site URL</a>
+
+**13- co**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+**13- co**
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
 **13- co**
 
 - <a href="" target="_blank">github Solution URL</a>
