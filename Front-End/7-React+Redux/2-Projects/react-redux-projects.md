@@ -153,10 +153,12 @@ OR
 OR
 - <a href="https://react-router-ola-forlearning.netlify.app/" target="_blank">Live Site URL</a>
 
-**13- co**
+**26- React-Redux-Class-component-iti**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/React-Redux-Class-component-iti" target="_blank">github Solution URL</a>
+- <a href="https://redux-classcomponent-iti.surge.sh/" target="_blank">Live Site URL</a>
+OR
+- <a href="https://redux-classcomponent-iti.netlify.app/" target="_blank">Live Site URL</a>
 
 **13- co**
 
