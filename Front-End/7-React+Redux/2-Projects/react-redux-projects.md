@@ -209,12 +209,12 @@ OR
 OR
 - <a href="https://react-redux-toolkit-kimz-ola.netlify.app/" target="_blank">Live Site URL</a>
 
-**34- **
+**34- react-reduxtoolkit-kimz-ola**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/react-reduxtoolkit-kimz-ola" target="_blank">github Solution URL</a>
+- <a href="https://react-reduxtoolkit-kimz-ola.surge.sh/" target="_blank">Live Site URL</a>
 OR
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://react-reduxtoolkit-kimz-ola.netlify.app/" target="_blank">Live Site URL</a>
 
 **34- co**
 
