@@ -195,10 +195,12 @@ OR
 OR
 - <a href="https://filter-by-name-react-kimz-ola.netlify.app/" target="_blank">Live Site URL</a>
 
-**32- co**
+**32- react-redux-kimz-ola**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/react-redux-kimz-ola" target="_blank">github Solution URL</a>
+- <a href="https://react-redux-kimz-ola.surge.sh/" target="_blank">Live Site URL</a>
+OR
+- <a href="https://react-redux-kimz-ola.netlify.app/" target="_blank">Live Site URL</a>
 
 **33- co**
 
