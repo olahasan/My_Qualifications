@@ -216,10 +216,13 @@ OR
 OR
 - <a href="https://react-reduxtoolkit-kimz-ola.netlify.app/" target="_blank">Live Site URL</a>
 
-**34- co**
+**35- redux-thunk-useSelector-useDispatch-hooks-iti-ola**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/redux-thunk-useSelector-useDispatch-hooks-iti-ola?tab=readme-ov-file" target="_blank">github Solution URL</a>
+- <a href="https://redux-thunk-useselector-usedispatch-hooks-iti-ola.surge.sh/" target="_blank">Live Site URL</a>
+OR
+- <a href="https://redux-thunk-hooks-iti-ola.netlify.app/" target="_blank">Live Site URL</a>
+
 **34- co**
 
 - <a href="" target="_blank">github Solution URL</a>
