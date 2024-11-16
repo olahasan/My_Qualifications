@@ -167,9 +167,9 @@ OR
 OR
 - <a href="https://redux-thunk-hooks-iti.netlify.app/" target="_blank">Live Site URL</a>
 
-**28- reactjs-router-kimz-forlearning**
+**28- reactjs-router-1-kimz-forlearning**
 
-- <a href="https://github.com/olahasan/reactjs-router-kimz-forlearning" target="_blank">github Solution URL</a>
+- <a href="https://github.com/olahasan/reactjs-router-1-kimz-forlearning" target="_blank">github Solution URL</a>
 - <a href="https://reactjs-router-kimz-forlearning.surge.sh/" target="_blank">Live Site URL</a>
 OR
 - <a href="https://reactjs-router-kimz-forlearning.netlify.app/" target="_blank">Live Site URL</a>
