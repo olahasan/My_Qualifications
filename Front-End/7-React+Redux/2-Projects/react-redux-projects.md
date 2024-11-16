@@ -181,10 +181,12 @@ OR
 OR
 - <a href="https://reactjs-router-2-kimz-forlearning.netlify.app/" target="_blank">Live Site URL</a>
 
-**30- co**
+**30- reactjs-router-3-kimz-forlearning**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/reactjs-router-3-kimz-forlearning" target="_blank">github Solution URL</a>
+- <a href="https://reactjs-router-3-kimz-forlearning.surge.sh/" target="_blank">Live Site URL</a>
+OR
+- <a href="https://reactjs-router-3-kimz-forlearning.netlify.app/" target="_blank">Live Site URL</a>
 
 **31- co**
 
