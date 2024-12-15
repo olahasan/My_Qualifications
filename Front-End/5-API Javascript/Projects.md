@@ -31,7 +31,7 @@ Otherwise, all links will open in the same tab.
 **5- challange-one---tarmeez-academy---promises-Axios-npm----Json-Placeholder-API**
 
 - <a href="https://github.com/olahasan/challange-one---tarmeez-academy---promises-Axios-npm----Json-Placeholder-API" target="_blank">github Solution URL</a>
-- <a href="https://olahasan.github.io/challange-one---tarmeez-academy---promises-Axios-cdn----Json-Placeholder-API/" target="_blank">Live Site URL</a>
+- <a href="https://challange-tarmeez-axios-npm.netlify.app/" target="_blank">Live Site URL</a>
 
 **1- **
 
