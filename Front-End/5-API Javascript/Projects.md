@@ -20,7 +20,7 @@ Otherwise, all links will open in the same tab.
 
 **3- challange-one---tarmeez-academy---promises-fetch---Json-Placeholder-API**
 
-- <a href="https://github.com/olahasan/challange-one---tarmeez-academy---promises-fetch---Json-Placeholder-API/edit/main/README.md" target="_blank">github Solution URL</a>
+- <a href="https://github.com/olahasan/challange-one---tarmeez-academy---promises-fetch---Json-Placeholder-API" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/challange-one---tarmeez-academy---promises-fetch---Json-Placeholder-API/" target="_blank">Live Site URL</a>
 
 **1- **
