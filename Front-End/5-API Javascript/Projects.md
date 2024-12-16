@@ -44,6 +44,16 @@ Otherwise, all links will open in the same tab.
 - <a href="https://olahasan.github.io/show-elements-in-html-using-async-await/" target="_blank">Live Site URL</a>
 
 
+**8- tarmeez-academy--reqres-Authentication-API-login---create-a-new-user-post**
+
+- <a href="https://github.com/olahasan/tarmeez-academy--reqres-Authentication-API-login---create-a-new-user-post?tab=readme-ov-file" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/tarmeez-academy--reqres-Authentication-API-login---create-a-new-user-post/" target="_blank">Live Site URL</a>
+
+
+**1- **
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
 **1- **
 
 - <a href="" target="_blank">github Solution URL</a>
