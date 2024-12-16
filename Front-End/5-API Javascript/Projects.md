@@ -38,10 +38,12 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/tarmeez-academy--Prayer-Timings--promises-Axios-npm?tab=readme-ov-file" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/tarmeez-academy--Prayer-Timings--promises-Axios-npm/" target="_blank">Live Site URL</a>
 
-**1- **
+**7- show-elements-in-html-using-async-await**
 
-- <a href="" target="_blank">github Solution URL</a>
-- <a href="" target="_blank">Live Site URL</a>
+- <a href="https://github.com/olahasan/show-elements-in-html-using-async-await" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/show-elements-in-html-using-async-await/" target="_blank">Live Site URL</a>
+
+
 **1- **
 
 - <a href="" target="_blank">github Solution URL</a>
