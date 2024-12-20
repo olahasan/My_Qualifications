@@ -13,7 +13,7 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/challange-one-tarmeez-academy---Json-Placeholder-API-AJAX" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/challange-one-tarmeez-academy---Json-Placeholder-API-AJAX/" target="_blank">Live Site URL</a>
 
-**2- challange-one-tarmeez-academy - callback - Json-Placeholder-API-AJAX**
+**2- challange-one-tarmeez-academy - _callback_ - Json-Placeholder-API-AJAX**
 
 - <a href="https://github.com/olahasan/challange-one-tarmeez-academy---callback-Json-Placeholder-API-AJAX" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/challange-one-tarmeez-academy---callback-Json-Placeholder-API-AJAX/" target="_blank">Live Site URL</a>
