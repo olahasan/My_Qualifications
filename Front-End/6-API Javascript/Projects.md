@@ -28,17 +28,17 @@ Otherwise, all links will open in the same tab.
 - <a href="https://github.com/olahasan/challange-one---tarmeez-academy---promises-Axios-cdn----Json-Placeholder-API" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/challange-one---tarmeez-academy---promises-Axios-cdn----Json-Placeholder-API/" target="_blank">Live Site URL</a>
 
-**5- challange-one---tarmeez-academy---***promises-Axios(npm)***----Json-Placeholder-API**
+**5- challange-one---tarmeez-academy---promises-Axios(npm)----Json-Placeholder-API**
 
 - <a href="https://github.com/olahasan/challange-one---tarmeez-academy---promises-Axios-npm----Json-Placeholder-API" target="_blank">github Solution URL</a>
 - <a href="https://challange-tarmeez-axios-npm.netlify.app/" target="_blank">Live Site URL</a>
 
-**6- tarmeez-academy--Prayer-Timings--***promises-Axios-npm***
+**6- tarmeez-academy--Prayer-Timings--promises-Axios-npm**
 
 - <a href="https://github.com/olahasan/tarmeez-academy--Prayer-Timings--promises-Axios-npm?tab=readme-ov-file" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/tarmeez-academy--Prayer-Timings--promises-Axios-npm/" target="_blank">Live Site URL</a>
 
-**7- show-elements-in-html-using-***async-await***
+**7- show-elements-in-html-using-async-await**
 
 - <a href="https://github.com/olahasan/show-elements-in-html-using-async-await" target="_blank">github Solution URL</a>
 - <a href="https://olahasan.github.io/show-elements-in-html-using-async-await/" target="_blank">Live Site URL</a>
