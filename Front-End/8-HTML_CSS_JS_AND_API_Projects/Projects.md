@@ -22,4 +22,22 @@ Otherwise, all links will open in the same tab.
 - <a href="https://olahasan.github.io/HTML_CSS_JS_API_frontend-mentor_junior_Advice-generator-app/" target="_blank">Live Site URL</a>
 
 
+**3- HTML_CSS_JS_API_frontend-mentor_intermediate_URL-shortening-API-landing-page**
+
+- <a href="https://github.com/olahasan/HTML_CSS_JS_API_frontend-mentor_intermediate_URL-shortening-API-landing-page" target="_blank">github Solution URL</a>
+- <a href="https://olahasan.github.io/HTML_CSS_JS_API_frontend-mentor_intermediate_URL-shortening-API-landing-page/" target="_blank">Live Site URL</a>
+
+
+**2- **
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+
+**2- **
+
+- <a href="" target="_blank">github Solution URL</a>
+- <a href="" target="_blank">Live Site URL</a>
+
+
 
