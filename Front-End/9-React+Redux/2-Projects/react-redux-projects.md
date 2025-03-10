@@ -232,3 +232,10 @@ OR
 
 
 # 2-ReactJs [Hooks] Projects:
+
+**1- modal-react-RTK-dynamicComponent-kimz**
+
+- <a href="https://github.com/olahasan/modal-react-RTK-dynamicComponent-kimz" target="_blank">github Solution URL</a>
+- <a href="https://modal-react-rtk-dynamiccomponent-kimz.surge.sh/" target="_blank">Live Site URL</a>
+OR
+- <a href="https://modal-react-rtk-dynamicomponent-kimz.netlify.app/" target="_blank">Live Site URL</a>
